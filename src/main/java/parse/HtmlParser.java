@@ -3,6 +3,7 @@ package parse;
 import static parse.HtmlLexer.TokenType.NAME;
 import static parse.HtmlLexer.TokenType.OPEN;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -96,8 +97,7 @@ public class HtmlParser {
 	}
 
 	private boolean isSingular(String val) {
-//		return Arrays.asList("li").contains(val);
-		return false;
+		return Arrays.asList("br", "img").contains(val);
 	}
 	
 	private CloseTag parseCloseNode(ElementNode parent) {
