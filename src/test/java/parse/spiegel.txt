@@ -1,0 +1,1779 @@
+<html lang="de">
+<head>
+	<title>Eigenheim: So lohnt sich jetzt der Immobilienkauf - Kolumne - SPIEGEL ONLINE</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="author" content="SPIEGEL ONLINE, Hamburg, Germany" />
+<meta name="copyright" content="SPIEGEL ONLINE, Hamburg, Germany" />
+<meta name="email" content="spiegel_online@spiegel.de" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="date" content="2015-11-07T12:17:00+0100" />
+<meta name="last-modified" content="2015-11-07T12:40:07+0100" />
+
+<meta name="spnet.relatedboxuse" content="false" />
+<meta name="spnet.url.mobil" content="/wirtschaft/service/a-1061551.html" />
+		<meta property="og:site_name" content="SPIEGEL ONLINE" />
+	<meta property="og:url" content="http://www.spiegel.de/wirtschaft/service/eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html" />
+
+	<meta name="twitter:card" value="summary_large_image" />
+	<meta name="twitter:site" value="@SPIEGELONLINE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Traum vom Eigenheim: So lohnt sich jetzt der Immobilienkauf - SPIEGEL ONLINE" />
+	<meta property="og:description" content="Die Zinsen sind niedrig, die Immobilienpreise steigen nicht mehr so rasant wie in den vergangenen Jahren, die Wirtschaft läuft. Jetzt ist die ideale Zeit, eine Wohnung zu kaufen. Wirklich?" />
+	<meta property="og:image" content="http://cdn4.spiegel.de/images/image-881297-galleryV9-gwkf-881297.jpg" />
+<meta name="description" content="Die Zinsen sind niedrig, die Immobilienpreise steigen nicht mehr so rasant wie in den vergangenen Jahren, die Wirtschaft läuft. Jetzt ist die ideale Zeit, eine Wohnung zu kaufen. Wirklich?" />
+	<meta name="news_keywords" content="Bausparen, Baufinanzierung, Baufinanzierer, Finanztip, Tenhagen, Wirtschaft, Verbraucher & Service, Meinung, Immobilien, Immobilienmarkt, Zinsen, Banken" />
+<link rel="alternate" type="application/rss+xml" title="SPIEGEL ONLINE RSS Schlagzeilen" href="http://www.spiegel.de/schlagzeilen/index.rss" />
+<link rel="alternate" type="application/rss+xml" title="SPIEGEL ONLINE RSS Wirtschaft" href="http://www.spiegel.de/wirtschaft/index.rss" />
+<link rel="alternate" type="application/rss+xml" title="SPIEGEL ONLINE RSS Wirtschaft - Verbraucher & Service" href="http://www.spiegel.de/wirtschaft/service/index.rss" />
+<link rel="alternate" type="application/rss+xml" title="SPIEGEL ONLINE RSS Wirtschaft - Verbraucher & Service - Bausparen" href="http://www.spiegel.de/thema/bausparen/dossier.rss" />
+<script type="text/javascript">
+	<!--
+		var spMetadataAssetId ='1061551';
+		var spMetadataAssetTypeId =1;
+	// -->
+	</script>
+
+	<link rel="canonical" href="http://www.spiegel.de/wirtschaft/service/eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html" />
+			<link rel="alternate" media="only screen and (max-width: 640px)" id="alternate-mobileplus" href="http://m.spiegel.de/wirtschaft/service/a-1061551.html" />
+		<link rel="alternate" id="alternate-androidapp" href="android-app://de.spiegel.android.app.spon/http/a.spiegel.de/wirtschaft/service/a-1061551.html" />
+		<link rel="shortcut icon" href="/favicon.ico" type="image/ico" />
+<link rel="apple-touch-icon" sizes="57x57"   href="/static/sys/v10/icons/touch-icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="72x72"   href="/static/sys/v10/icons/touch-icon72.png" />
+<link rel="apple-touch-icon" sizes="76x76"   href="/static/sys/v10/icons/touch-icon76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/static/sys/v10/icons/touch-icon114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/static/sys/v10/icons/touch-icon120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/static/sys/v10/icons/touch-icon144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/static/sys/v10/icons/touch-icon152.png" />
+<!-- ##SPONTAG: CSS## -->
+		<link rel="stylesheet" type="text/css" href="/layout/css/style-V6-17-a.css" />
+	<!--[if IE 7]>
+	<link rel="stylesheet" type="text/css" href="/layout/css/ie7-V6-17-a.css" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" type="text/css" href="/layout/css/ie8-V6-17-a.css" />
+	<![endif]-->
+	<script src="/layout/jscfg/http/global-V6-17-a.js" type="text/javascript"></script>
+		<script src="/layout/js/http/javascript-V6-17-a.js" type="text/javascript"></script>
+		<!--
+		<script type="text/javascript" id="spIpadScript">
+		if (spUA.isIPad()) {
+			if ("https:" == window.location.protocol){
+				document.write('<scr' + 'ipt src="/layout/js/https/ipad-V6-17-a.js" type="text/javascript"><\/scr' + 'ipt>');
+			} else
+				document.write('<scr' + 'ipt src="/layout/js/http/ipad-V6-17-a.js" type="text/javascript"><\/scr' + 'ipt>');
+		}
+		</script>
+		<script type="text/javascript" id="spIpadVideoScript">
+			var hashParams = spGetHashParams();
+			var forceJWPlayer = hashParams['sp.forceJWPlayer'] && hashParams['sp.forceJWPlayer'] === '1';
+			if (spUA.isIDevice() || spUA.isAndroid() || !isValidPluginVersion() || forceJWPlayer) {
+				document.write('<scr' + 'ipt src="/layout/js/http/ipadvideo-V6-17-a.js" type="text/javascript"><\/scr' + 'ipt>');
+			}
+		</script>
+		-->
+		<script src="/layout/js/http/interface-V6-17-a.js" type="text/javascript"></script>
+
+
+	<script src="/layout/js/http/netmind-V6-17-a.js" type="text/javascript"></script>
+		<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+	<!--[if lte IE 8]>
+		<script src="/layout/js/http/respond_min-V6-17-a.js" type="text/javascript"></script>
+	<![endif]-->
+	<script type="text/javascript">
+<!--
+	var ADI = new XADI('');
+	ADI.pvars  	  = {
+    "themen_ids": "_19560_25860_25435_19766_20127_20891_",
+    "themen_namen": "_bausparen_meinung_immobilien_immobilienmarkt_zinsen_banken_",
+    "unterrubrik_ids": "_5050_",
+    "unterrubrik_namen": "_verbraucher-service_",
+    "vpaid": "false"
+};
+	ADI.campaigns = {
+    "aaa_skyscraper_left": "2845982",
+    "billboard_1": "2845971",
+    "content_ad_1": "2846005",
+    "content_ad_2": "2846007",
+    "footer_ad": "2846012",
+    "interne_statistik": "2845973",
+    "layer_ad": "2845974",
+    "promotion_ad_1": "2845995",
+    "promotion_ad_2": "2845997",
+    "promotion_ad_3": "2845999",
+    "promotion_ad_4": "2846001",
+    "promotion_ad_5": "2846003",
+    "promotion_ad_vertrieb": "2846015",
+    "skyscraper": "2845977",
+    "spezial_teaser": "2846010",
+    "sponsor_logo": "2845989",
+    "subchannel_reiter_1": "2845984",
+    "subchannel_reiter_2": "2845991",
+    "subchannel_teaser": "2846013",
+    "superbanner": "2845980",
+    "wallpaper": "2845982",
+    "zaehler": "2845993"
+};
+// -->
+</script>
+<script type="text/javascript">
+<!--
+	if (!ADI.disabled()) {
+		(function() {
+			var src = (document.location.protocol === 'https:' ? 'https:/' : 'http:/') + '/imagesrv.adition.com/js/srp.js';
+			document.write('<scr' + 'ipt type="text/javascript" src="' + src + '" charset="utf-8"></scr' + 'ipt>');
+		})();
+	};
+
+//-->
+</script>
+
+<script type="text/javascript">
+<!--
+	ADI.setup((typeof adition != 'undefined' ? adition : null));
+
+
+
+	if (!ADI.blocked) adition.srq.push(function(api) {
+
+		api.registerAdfarm('ad8.adfarm1.adition.com');
+
+		var pv = ADI.pvars;
+		for (var v in pv) {
+			api.setProfile(v, pv[v]);
+
+		}
+
+		api.events.onPreRender(onPreRenderCallback);
+		if (ADI.previewprofile) {
+			api.setProfile('preview', ADI.previewprofile);
+		}
+		var cs = ADI.campaignsToRender();
+		if (cs.length > 0) {
+			for (var pos in cs) {
+
+				api.configureRenderSlot(cs[pos].name).setContentunitId(parseInt(cs[pos].value)).setRenderer('iframe');
+
+			}
+
+			api.modules.configureModule('criteo').setNid(3335).setContentVariableName('criteoContent').setCookieName('cookieName').enable();
+			api.loadNow().completeRendering();
+		}
+	});
+
+
+
+
+// -->
+</script>
+</head>
+
+<body id="wirtschaft" class="spBereich5050 spArticleContent dt-www">
+
+<iframe src="/static/sys/pixel.gif" name="spon_vdz_countframe" width="0" height="0" frameborder="0" style="display:none;"></iframe><div id="spSZM">
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript">
+var iam_data = {
+"st":"spiegel", // site/domain
+"cp":"spon-www-21-5050", // code
+"sv":"in"
+}
+iom.c(iam_data);
+</script>
+<!-- /SZM -->
+</div>
+
+<div style="position:absolute;top: -100px;left: 0px;">
+<script type="text/javascript">
+<!--
+
+var abd = spGetAbdStatus();
+spNm({
+	'sp.site': '1',
+	'sp.topic': '19560',
+	'sp.atyp': '1',
+	'sp.aid': '1061551',
+	'sp.part': '1',
+	'sp.rubric': '5050',
+	'sp.channel': '21',
+	'sp.partmax': '1',
+	"sp.abd": abd
+});
+
+// -->
+</script>
+<noscript>
+	<img src="https://count.spiegel.de/nm_trck.gif?sp.site=9999" width="1" height="1" border="0" align="right" alt="" />
+</noscript>
+</div>
+<div id="spOasTop">
+	<div class="adition" id="superbanner" data-position="superbanner">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('superbanner');
+	</script>
+</div>
+<br class="clearfix" />
+
+	<div style="position:absolute;top:-100px;left:0px;">
+		<div class="adition" id="zaehler" data-position="zaehler">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('zaehler');
+	</script>
+</div>
+</div><br class="clearfix" />
+</div>
+<div id="wrapper">
+			<div id="wrapper-shadow">
+			<div id="wrapper-content">
+
+				<div id="header">
+
+					<div class="header-top">
+
+			<div class="nav-main">
+
+				<ul>
+					<li>
+								<a href="/">Home</a></li>
+							<li>
+								<a href="/video/">Video</a></li>
+							<li>
+								<a href="/thema/index-a.html">Themen</a></li>
+							<li>
+								<a href="/forum/">Forum</a></li>
+							<li>
+								<a href="/international/">English</a></li>
+							<li>
+								<a href="/spiegel/">DER SPIEGEL</a></li>
+							<li>
+								<a href="/sptv/">SPIEGEL TV</a></li>
+							<li>
+								<a href="http://abo.spiegel.de/?b=SPOHNAVABO&amp;utm_source=spon&amp;utm_medium=text&amp;utm_content=SPOHNAVABO&amp;utm_campaign=navigationsleiste">Abo</a></li>
+							<li>
+								<a href="/shop/">Shop</a></li>
+							</ul>
+
+			</div> <div class="nav-service">
+				<ul>
+					<li><a href="/schlagzeilen/">Schlagzeilen</a></li>
+							<li><a href="/wetter/"><img src="/static/sys/v10/icons/ic_sonne.png" width="18" height="18" alt="Wetter" />Wetter</a></li>
+							<li><a href="http://tvprogramm.spiegel.de/">TV-Programm</a></li>
+							<li><a class="link-more" href="javascript:return false;">mehr &#9660;</a>
+								<ul class="nav-service-sub">
+									<li><a href="/dienste/a-637773.html">Hilfe</a></li>
+									<li><a href="/dienste/a-634260.html">RSS</a></li>
+									<li><a href="/dienste/a-902432.html">Newsletter</a></li>
+									<li><a href="/dienste/a-634549.html">Mobil</a></li>
+								</ul>
+							</li>
+						</ul>
+			</div> </div> <div class="header-main">
+
+			<a href="/" class="header-logo"><img src="/static/sys/v10/logo/spiegel_online_logo_460_64.png" alt="SPIEGEL ONLINE" title="SPIEGEL ONLINE" width="230" height="32" /></a>
+					<a href="/wirtschaft" class="channel-name">Wirtschaft</a>
+					<div class="header-search">
+
+								<form onsubmit="return suchactionchange();" id="suchform" class="search-form-single" name="suchform" method="get" action="/suche/index.html">
+
+									<input type="hidden" name="button" value="Alles" />
+									<input type="hidden" name="sektion" value="suche" />
+									<input type="hidden" name="site" value="SPIEGEL" />
+
+									<input id="spSearch" name="suchbegriff" type="text" />
+									<input class="search-form-submit" type="submit" value="Suche starten" />
+
+									<div class="search-options">
+
+										<input id="search-articles" name="wo" value="archiv" type="radio" checked="checked" />
+										<label for="search-articles">
+											<a href="/suche/"><span>Suche</span></a>
+										</label>
+
+										<input id="search-stock" name="wo" value="kurse" type="radio" />
+										<label for="search-stock">Kurse</label>
+
+									</div> <script type="text/javascript">
+										<!--
+											function suchactionchange() {
+
+													var suchtype = 'archiv';
+
+													$("#suchform input:radio[name='wo']").each(function(){
+														if( $(this).is(':checked') ) {
+															suchtype = $(this).val();
+														}
+													});
+
+													if(suchtype == 'kurse') {
+														$('#suchform')
+														.attr("action", 'http://boersen.manager-magazin.de/mm/kurse_einzelkurs_suche.htn')
+														.attr("method", "get")
+														.attr("target", "Boerse");
+													} else {
+														$('#suchform')
+														.attr("action", spnetENV_SERVER + '/suche/index.html')
+														.attr("method", "get")
+														.attr("target", "");
+													}
+
+												return true;
+											}
+										// -->
+									</script>
+
+								</form>
+							</div> <ul class="login-links">
+					<noscript><li><a href="/meinspiegel/">Mein SPIEGEL</a></li></noscript>
+				</ul>
+				<script type="text/javascript">
+					<!--
+						spUpdateMSLoginLinks();
+					// -->
+				</script>
+			</div> <div class="nav-channel" lang="de">
+
+			<ul class="clearfix">
+
+						<li class="channel-politik-border-bottom">
+										<a href="/politik/" class="nav-channel-name ">Politik</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/politik/deutschland/"><span class="nav-channel-sub-entry">Deutschland</span></a></li>
+
+		<li>
+				<a href="/politik/ausland/"><span class="nav-channel-sub-entry">Ausland</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/thema/eu/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Europa</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/thema/meinung/" target="_self" title="" class="spNaviLevel2Last"><span class="nav-channel-sub-entry">Meinung</span></a></li>
+
+		</ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">politik</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-wirtschaft-border-bottom">
+										<a href="/wirtschaft/" class="nav-channel-name active">Wirtschaft</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="http://boersen.manager-magazin.de/spon/" target="_blank" title="" class=""><span class="nav-channel-sub-entry">Börse</span></a></li>
+
+		<li>
+				<a href="/wirtschaft/service/"><span class="nav-channel-sub-entry">Verbraucher & Service</span></a></li>
+
+		<li>
+				<a href="/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html" title="" class=""><span class="nav-channel-sub-entry">Versicherungen</span></a></li>
+
+		<li>
+				<a href="/wirtschaft/unternehmen/"><span class="nav-channel-sub-entry">Unternehmen & Märkte</span></a></li>
+
+		<li>
+				<a href="/wirtschaft/soziales/"><span class="nav-channel-sub-entry">Staat & Soziales</span></a></li>
+
+		<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="/wirtschaft/service/brutto-netto-rechner-was-von-lohn-und-gehalt-uebrig-bleibt-a-223811.html" title="">Brutto-Netto-Rechner</a>
+</li>
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076401&kid=1213066&bid=3962693" rel="nofollow" title="Anzeige">Jobsuche</a>
+</li>
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076393&kid=1213025&bid=3962018" rel="nofollow" title="Anzeige">Immowelt</a>
+</li>
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076396&kid=1212888&bid=3961329" rel="nofollow" title="Anzeige">Tarifvergleiche</a>
+</li>
+<li>
+<a href=" http://ad8.adfarm1.adition.com/redi?sid=3078845&kid=1207958&bid=3943597" rel="nofollow" title="Anzeige">Kreditvergleich</a>
+</li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">wirtschaft</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-panorama-border-bottom">
+										<a href="/panorama/" class="nav-channel-name ">Panorama</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/panorama/justiz/"><span class="nav-channel-sub-entry">Justiz</span></a></li>
+
+		<li>
+				<a href="/panorama/leute/"><span class="nav-channel-sub-entry">Leute</span></a></li>
+
+		<li>
+				<a href="/panorama/gesellschaft/"><span class="nav-channel-sub-entry">Gesellschaft</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/story/" target="_self" title="" class="spNaviLevel2Last"><span class="nav-channel-sub-entry">Multimedia-Reportagen</span></a></li>
+
+		<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3098101&kid=1219781&bid=3986826" title="Anzeige">LOTTO 6aus49</a>
+</li>
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076398&kid=1212921&bid=3961471" title="Anzeige">Eurojackpot</a>
+</li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">panorama</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-sport-border-bottom">
+										<a href="/sport/" class="nav-channel-name ">Sport</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/sport/fussball/fussball-live-liveticker-tabellen-und-statistiken-a-839944.html" title="" class=""><span class="nav-channel-sub-entry">Fußball-Liveticker</span></a></li>
+
+		<li>
+				<a href="/sport/fussball/"><span class="nav-channel-sub-entry">Fußball-News</span></a></li>
+
+		<li>
+				<a href="/sport/fussball/champions-league-live-ticker-spielplan-ergebnisse-tabelle-a-851014.html" title="" class=""><span class="nav-channel-sub-entry">Champions League</span></a></li>
+
+		<li>
+				<a href="http://tippspiel.spiegel.de" target="_self" title="" class=""><span class="nav-channel-sub-entry">Fußball-Tippspiel</span></a></li>
+
+		<li>
+				<a href="/sport/formel1/"><span class="nav-channel-sub-entry">Formel 1</span></a></li>
+
+		<li>
+				<a href="/sport/formel1/formel-1-live-ticker-ergebnisse-termine-fahrer-teams-a-958409.html" title="" class=""><span class="nav-channel-sub-entry">Formel-1-Liveticker</span></a></li>
+
+		<li>
+				<a href="http://sportal.spiegel.de/spiegel/ergebnisse/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Ergebnisse</span></a></li>
+
+		<li>
+				<a href="http://sportal.spiegel.de/spiegel/liveticker/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Live-Kalender</span></a></li>
+
+		<li>
+				<a href="/sport/wintersport/"><span class="nav-channel-sub-entry">Wintersport</span></a></li>
+
+		<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3213806&kid=1374774&bid=4579983" title="Anzeige">
+<span style="color:#990000; font-weight: bold; font-size:1.2rem;">Bundesliga</span> präsentiert von<br/>Continental</a>
+</li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">sport</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-kultur-border-bottom">
+										<a href="/kultur/" class="nav-channel-name ">Kultur</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/kultur/kino/"><span class="nav-channel-sub-entry">Kino</span></a></li>
+
+		<li>
+				<a href="/kultur/musik/"><span class="nav-channel-sub-entry">Musik</span></a></li>
+
+		<li>
+				<a href="/kultur/tv/"><span class="nav-channel-sub-entry">TV</span></a></li>
+
+		<li>
+				<a href="/kultur/literatur/"><span class="nav-channel-sub-entry">Literatur</span></a></li>
+
+		<li>
+				<a href="http://gutenberg.spiegel.de" target="_self" title="" class=""><span class="nav-channel-sub-entry">Gutenberg</span></a></li>
+
+		<li>
+				<a href="/kultur/bestseller-buecher-belletristik-sachbuch-auf-spiegel-liste-a-458623.html" title="" class="spNaviLevel2Last"><span class="nav-channel-sub-entry">Bestseller</span></a></li>
+
+		<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3354428&kid=1441836&bid=4862223" title="Anzeige">Deezer Music</a>
+</li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">kultur</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-netzwelt-border-bottom">
+										<a href="/netzwelt/" class="nav-channel-name ">Netzwelt</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/netzwelt/netzpolitik/"><span class="nav-channel-sub-entry">Netzpolitik</span></a></li>
+
+		<li>
+				<a href="/netzwelt/web/"><span class="nav-channel-sub-entry">Web</span></a></li>
+
+		<li>
+				<a href="/netzwelt/gadgets/"><span class="nav-channel-sub-entry">Gadgets</span></a></li>
+
+		<li>
+				<a href="/netzwelt/games/"><span class="nav-channel-sub-entry">Games</span></a></li>
+
+		<li>
+				<a href="/netzwelt/apps/"><span class="nav-channel-sub-entry">Apps</span></a></li>
+
+		</ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">netzwelt</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-wissenschaft-border-bottom">
+										<a href="/wissenschaft/" class="nav-channel-name ">Wissenschaft</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/wissenschaft/mensch/"><span class="nav-channel-sub-entry">Mensch</span></a></li>
+
+		<li>
+				<a href="/wissenschaft/natur/"><span class="nav-channel-sub-entry">Natur</span></a></li>
+
+		<li>
+				<a href="/wissenschaft/technik/"><span class="nav-channel-sub-entry">Technik</span></a></li>
+
+		<li>
+				<a href="/wissenschaft/weltall/"><span class="nav-channel-sub-entry">Weltall</span></a></li>
+
+		<li>
+				<a href="/wissenschaft/medizin/"><span class="nav-channel-sub-entry">Medizin</span></a></li>
+
+		<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="/wissenschaft/mensch/zahlenraetsel-sudoku-der-logik-klassiker-fuer-jeden-tag-a-994416.html" title="">Sudoku</a>
+</li>
+<li>
+<a href="/wissenschaft/mensch/kenken-das-zahlenraetsel-aus-japan-a-994418.html" title="">Kenken</a>
+</li>
+<li>
+<a href="/wissenschaft/mensch/zahlenraetsel-street-die-logik-liegt-auf-der-strasse-a-994419.html" title="">Street</a>
+</li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">wissenschaft</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-gesundheit-border-bottom">
+										<a href="/gesundheit/" class="nav-channel-name ">Gesundheit</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/gesundheit/diagnose/"><span class="nav-channel-sub-entry">Diagnose & Therapie</span></a></li>
+
+		<li>
+				<a href="/gesundheit/ernaehrung/"><span class="nav-channel-sub-entry">Ernährung & Fitness</span></a></li>
+
+		<li>
+				<a href="/gesundheit/psychologie/"><span class="nav-channel-sub-entry">Psychologie</span></a></li>
+
+		<li>
+				<a href="/gesundheit/sex/"><span class="nav-channel-sub-entry">Sex & Partnerschaft</span></a></li>
+
+		<li>
+				<a href="/gesundheit/schwangerschaft/"><span class="nav-channel-sub-entry">Schwangerschaft & Kind</span></a></li>
+
+		<li><a title="" href="/gesundheit/ernaehrung/bmi-rechner-so-ermitteln-sie-ihren-body-mass-index-a-824673.html">BMI-Rechner</a></li>
+<li><a title="" href="/gesundheit/ernaehrung/kalorienrechner-so-ermitteln-sie-ihren-optimalen-kalorienverbrauch-a-832713.html">Kalorienrechner</a></li>
+<li><a title="Anzeige" href="http://ad8.adfarm1.adition.com/redi?sid=3080249&amp;kid=1209326&amp;bid=3947657">Hörgeräte</a></li>
+<li><a title="Anzeige" href="http://ad8.adfarm1.adition.com/redi?sid=3088031&kid=1214230&bid=3966013">Arztsuche</a></li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">gesundheit</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-einestages-border-bottom">
+										<a href="/einestages/" class="nav-channel-name ">einestages</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/einestages/thema/zeitzeugen/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Zeitzeugen</span></a></li>
+
+		<li>
+				<a href="/einestages/thema/erster_weltkrieg/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Erster Weltkrieg</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/einestages/thema/zweiter_weltkrieg/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Zweiter Weltkrieg</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/einestages/thema/ddr/" target="_self" title="" class=""><span class="nav-channel-sub-entry">DDR</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/einestages/thema/fotografie/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Fotografie</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/einestages/thema/film/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Film</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/einestages/thema/musik/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Musik</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/einestages/archiv.html" target="_self" title="" class="spNaviLevel2Last"><span class="nav-channel-sub-entry">Archiv</span></a></li>
+
+		</ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">einestages</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-karriere-border-bottom">
+										<a href="/karriere/" class="nav-channel-name ">Karriere</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/karriere/berufsstart/"><span class="nav-channel-sub-entry">Berufsstart</span></a></li>
+
+		<li>
+				<a href="/karriere/berufsleben/"><span class="nav-channel-sub-entry">Berufsleben</span></a></li>
+
+		<li>
+				<a href="/karriere/ausland/"><span class="nav-channel-sub-entry">Ausland</span></a></li>
+
+		<li>
+				<a href="http://stellensuche.karriere.spiegel.de/" target="_self" title="" class="spNaviLevel2Last"><span class="nav-channel-sub-entry">Stellensuche</span></a></li>
+
+		<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="/karriere/berufsleben/gehaltsrechner-2015-was-vom-brutto-lohn-netto-uebrig-bleibt-a-750850.html" title="">Gehaltsrechner</a>
+</li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">karriere</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-unispiegel-border-bottom">
+										<a href="/unispiegel/" class="nav-channel-name ">Uni</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="http://www.spiegel.de/schulspiegel/" target="_self" title="" class=""><span class="nav-channel-sub-entry">SchulSPIEGEL</span></a></li>
+
+		<li>
+				<a href="/unispiegel/studium/"><span class="nav-channel-sub-entry">Studium</span></a></li>
+
+		<li>
+				<a href="/unispiegel/jobundberuf/"><span class="nav-channel-sub-entry">Job & Beruf</span></a></li>
+
+		<li>
+				<a href="/unispiegel/wunderbar/"><span class="nav-channel-sub-entry">WunderBAR</span></a></li>
+
+		</ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">unispiegel</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-reise-border-bottom">
+										<a href="/reise/" class="nav-channel-name ">Reise</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/reise/karte/"><span class="nav-channel-sub-entry">Weltkarte</span></a></li>
+
+		<li>
+				<a href="/reise/staedte/"><span class="nav-channel-sub-entry">Städtereisen</span></a></li>
+
+		<li>
+				<a href="/reise/deutschland/"><span class="nav-channel-sub-entry">Deutschland</span></a></li>
+
+		<li>
+				<a href="/reise/europa/"><span class="nav-channel-sub-entry">Europa</span></a></li>
+
+		<li>
+				<a href="/reise/fernweh/"><span class="nav-channel-sub-entry">Fernweh</span></a></li>
+
+		<li>
+				<a href="http://schneeundmehr.spiegel.de/" target="_self" title="" class="spNaviLevel2Last"><span class="nav-channel-sub-entry">Skiatlas</span></a></li>
+
+		<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3341607&kid=1427921&bid=4780964" title="Anzeige">Secret Escapes</a>
+</li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">reise</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-auto-border-bottom">
+										<a href="/auto/" class="nav-channel-name ">Auto</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="/auto/fahrberichte/"><span class="nav-channel-sub-entry">Tests</span></a></li>
+
+		<li>
+				<a href="/auto/fahrkultur/"><span class="nav-channel-sub-entry">Fahrkultur</span></a></li>
+
+		<li class="spDivideNaviAd">
+<div>
+<div></div>
+</div>
+</li>
+
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3094400&kid=1218361&bid=3980973" rel="nofollow" title="Anzeige">Neu-/Gebraucht-Fahrzeuge</a>
+</li>
+
+<li>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076396&kid=1440894&bid=4858521" rel="nofollow" title="Anzeige">Kfz-Versicherung</a>
+</li></ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">auto</span>
+													</div>
+												</div>
+
+										</li>
+
+								<li class="channel-stil-border-bottom">
+										<a href="/stil/" class="nav-channel-name ">Stil</a><div class=" nav-channel-sub">
+
+												<ul style="z-index:1000001;"><li>
+				<a href="http://www.spiegel.de/thema/stil_design/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Design</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/thema/stil_mode/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Mode</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/thema/stil_kochen/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Kochen</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/thema/stil_reisen/" target="_self" title="" class=""><span class="nav-channel-sub-entry">Reisen</span></a></li>
+
+		<li>
+				<a href="http://www.spiegel.de/thema/stil_hotels/" target="_self" title="" class="spNaviLevel2Last"><span class="nav-channel-sub-entry">Hotels</span></a></li>
+
+		</ul>
+												<div class="nav-channel-sub-assets">
+														<span class="asset">stil</span>
+													</div>
+												</div>
+
+										</li>
+
+								<div class="adition" id="subchannel_reiter_2" data-position="subchannel_reiter_2">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('subchannel_reiter_2');
+	</script>
+</div>
+</ul>
+
+
+			</div> <div id="js-popup-layer" class="clearfix"></div>
+
+<div id="breadcrumb">
+
+	<ul class="breadcrumb-history list-float">
+				<li class="list-float-left">
+		<a href="/">Nachrichten</a></li>
+<li class="list-float-left">
+		<span>&gt;</span><a href="/wirtschaft/">Wirtschaft</a></li>
+<li class="list-float-left">
+		<span>&gt;</span><a href="/wirtschaft/service/">Verbraucher & Service</a></li>
+<li class="list-float-left">
+		<span>&gt;</span><a href="/thema/bausparen/">Bausparen</a></li>
+<li class="list-float-left"><span>&gt;</span><h1 class="so-hdln">Eigenheim: So lohnt sich jetzt der Immobilienkauf - Kolumne</h1></li>
+				</ul>
+
+		<div class="nav-extra">
+
+		<div class="adition" id="subchannel_reiter_1" data-position="subchannel_reiter_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('subchannel_reiter_1');
+	</script>
+</div>
+</div> </div> <br class="clearfix" /></div> <div id="content-main" class="grid-article spSmallScreen clearfix">
+
+					<div class="adition" id="billboard_1" data-position="billboard_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('billboard_1');
+	</script>
+</div>
+<br class="clearfix" />
+
+					<div id="spSponsoredBy">
+							<div class="adition" id="sponsor_logo" data-position="sponsor_logo">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('sponsor_logo');
+	</script>
+</div>
+</div>
+					<div class="column-both">
+							<h2 class="article-title">
+									<span class="headline-intro">Traum vom Eigenheim:</span> <span class="headline">So lohnt sich jetzt der Immobilienkauf</span></h2>
+								<p class="author">Eine Kolumne von Hermann-Josef Tenhagen</p>
+								<div id="js-article-top-wide-asset">
+
+<script>
+                $(document).ready(function() {
+                   initKalooga();
+                });
+            </script>
+        <div class="js-module-box-image box-position  spXXLPano asset-align-center breitwandaufmacher kalooga" style="width:860px;">
+
+						<a href="/wirtschaft/service/bild-1061551-881297.html" class="image-buttons-panel display-block clearfix">
+											<img src="http://cdn4.spiegel.de/images/image-881297-breitwandaufmacher-gwkf-881297.jpg" width="860" height="320" class="spPanoImageTeaserPic" title="Wohnungsbau (in Dresden): 2015 ist für Baufinanzierer ein Boomjahr" alt="Wohnungsbau (in Dresden): 2015 ist für Baufinanzierer ein Boomjahr" align="center" /><span class="image-buttons">
+												<img src="/static/sys/v10/icons/ic_lupe.png" class="spPicZoom" title="Zur Großansicht" alt="Zur Großansicht" />
+											</span>
+										</a>
+									<div class="article-image-description">
+							<div class="asset-credit">DPA</div>
+							<p>Wohnungsbau (in Dresden): 2015 ist für Baufinanzierer ein Boomjahr</p>
+							</div>
+					</div>
+
+</div>
+								<p class="article-intro"><strong>Die Zinsen sind niedrig, die Immobilienpreise steigen nicht mehr so rasant wie in den vergangenen Jahren, die Wirtschaft läuft. Jetzt ist die ideale Zeit, eine Wohnung zu kaufen. Wirklich?</strong></p>
+								</div><div id="js-article-column" class="column-wide" itemscope="itemscope" itemtype="http://schema.org/Article">
+						<div class="article-section clearfix">
+
+	<div class="article-function-social-media">
+					<div class="social-media-box clearfix">
+		<ul class="list-float clearfix">
+
+			<li id="social-button-facebook-share-standard" class="list-float-left"></li>
+			<script type="text/javascript">
+				spnetDynamicFrame('social_fbshare', 'social-button-facebook-share-standard', 'spFacebookShareFrameStd', '75px', '21px', 'http://www.facebook.com/v2.0/plugins/share_button.php?locale=de_DE&href=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&type=button&width=110&font=verdana&colorscheme=light&height=21');
+			</script>
+
+			<li id="social-button-facebook-standard" class="list-float-left"></li>
+			<script type="text/javascript">
+				spnetDynamicFrame('social_fb', 'social-button-facebook-standard', 'spFacebookFrameStd', '150px', '21px', 'http://www.facebook.com/plugins/like.php?locale=de_DE&href=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&layout=button_count&show_faces=false&width=140&action=recommend&font=verdana&colorscheme=light&height=21');
+			</script>
+
+			<li id="social-button-twitter-standard" class="list-float-left"></li>
+				<script type="text/javascript">
+					spnetDynamicFrame('social_tw', 'social-button-twitter-standard', 'spTwitterFrameStd', '110px', '21px', 'http://platform.twitter.com/widgets/tweet_button.html?count=horizontal&url=http%3A%2F%2Fspon.de%2FaeCjX&counturl=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&text=Traum%20vom%20Eigenheim%3A%20So%20lohnt%20sich%20jetzt%20der%20Immobilienkauf&via=SPIEGELONLINE&lang=de');
+				</script>
+			<li id="social-button-google-aside" class="list-float-left"></li>
+				<script type="text/javascript">
+					spnetDynamicFrame('social_gplus', 'social-button-google-aside', 'spGooglePlusFrameAside', '40px', '21px', 'https://plusone.google.com/_/+1/fastbutton?url=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&size=medium&count=true&annotation=none&width=40&parent=http%3A%2F%2Fwww.spiegel.de&hl=de&');
+				</script>
+			</ul>
+	</div>
+
+</div>
+
+<p>
+<style>
+.html_116000 {text-align: center;font-size: 90%;font-family: "Trebuchet MS", sans-serif;position: relative;padding:5px 0 10px 0;}
+.html_116000 .aussen{z-index:10;border-bottom:1px solid #000;z-index:1;position:relative;top:12px;width:100%;}
+.html_116000 .innen{z-index:20;background:#fff;padding:0;display:inline-block;position:relative;}
+.html_116000 .a1{font-size: 1.4em;background: #fff;color: #990000;font-weight: normal;padding: 5px 10px;}
+.html_116000 a {text-decoration: none;}
+
+@media only screen and (max-width: 480px) {
+.html_112399 {font-size: 70%;}
+ }
+</style>
+
+<div class="html_116000">
+<div class="aussen"></div>
+<div class="innen">
+<a href="/spiegel/spiegelblog/meinung-auf-spiegel-online-stefan-kuzmany-a-1037239.html">
+<span class="a1">Kolumne</span>
+</a>
+</div>
+</div>Viele Verbraucher in Deutschland halten den Zeitpunkt für den Immobilienkauf offenbar für perfekt. Die Baufinanzierer haben in diesem Jahr bereits ein Bombengeschäft gemacht. Seit März liegt das Volumen neuer Baufinanzierungen Monat für Monat um 20 Prozent oder mehr über dem des Vorjahres. Im Juli betrug der Anstieg sogar mehr als 50 Prozent. </p>
+
+<p>
+<div class="adition" id="content_ad_1" data-position="content_ad_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('content_ad_1');
+	</script>
+</div>
+Insgesamt 236 Milliarden Euro an neuen Baukrediten sind im Jahr von September 2014 bis August 2015 vergeben worden, schreibt die <a href="/thema/deutsche_bundesbank/" title="Bundesbank" class="text-link-int">Bundesbank</a>. Vermittler von Baufinanzierungen wie Dr. Klein und Interhyp melden für die ersten neun Monate gar noch bessere Geschäfte.</p>
+
+<p>Allerdings machen die Unternehmen das zusätzliche Geschäft nicht nur mit jungen Erstkunden, die dringend auf eine Finanzierung angewiesen sind. Stattdessen brachten viele Kunden schon beim Kauf viel Eigenkapital mit. Bei anderen lief die Finanzierung schon seit einiger Zeit - sie wollten von den preiswerten <a href="/thema/zinsen/" title="Zinsen" class="text-link-int">Zinsen</a> profitieren und schuldeten um. Interhyp zum Beispiel meldet, dass solche Anschlussfinanzierungen um gut ein Viertel zugenommen haben und inzwischen 27 Prozent des Finanzierungsvolumens ausmachen. </p>
+
+<p>Unter den Kunden, die eine Anschlussfinanzierung abschließen, stechen zwei Gruppen besonders hervor: Zum einen jene, die ein sogenanntes Forward Darlehen abschließen. Ihre Finanzierung läuft beispielsweise 2017 oder 2018 aus, sie können sich aber jetzt schon (bei der eigenen Bank oder einer neuen Bank) günstige Zinsen von zum Teil unter zwei Prozent sichern.</p>
+
+<p>Zum anderen jene, die sich einen Formfehler der Banken bei der Widerrufsbelehrung zu ihrem alten Kredit zunutze gemacht haben und jetzt einen neuen, viel günstigeren Vertrag abschließen können. Die Banken hatten ihre Kunden nicht korrekt informiert, so dass die ihre Kreditverträge jederzeit rückabwickeln können - solange die Banken diesen Formfehler nicht durch eine erneute und einwandfreie Belehrung korrigieren. </p>
+
+<p>Inzwischen 350.000-mal ist der Ratgeber mit den Tipps und Kniffen für die Rückabwicklung allein <a href="http://www.finanztip.de/baufinanzierung/fehlerhafte-widerrufsbelehrung-darlehen/" target="_blank" title="" class="spTextlinkExt text-link-ext">bei Finanztip heruntergeladen worden</a>. Die Kunden, die ihre alte Finanzierung zurückgeben konnten, sind ironischerweise für das größte Neugeschäft in der Baufinanzierung seit vielen Jahren mitverantwortlich. </p>
+
+<p>
+<b>Ist eine eigene Wohnung oder ein eigenes Haus also auch für Sie eine gute Idee? </b>
+</p>
+
+<p>Ja, wenn die Immobilie nicht zu teuer ist und sie tatsächlich beabsichtigen, länger dort zu wohnen, womöglich sogar dort alt zu werden. Wenn Sie mit einer Summe, die 20 Jahre ihrer aktuellen Kaltmiete entspricht, eine gleich große Wohnung in einer guten Wohnlage bezahlen könnten, ist sie ein Schnäppchen. Zahlen Sie mehr als 25 Jahresnettokaltmieten, so eine brauchbare Faustformel, ist die Wohnung keine Rendite versprechende Geldanlage mehr - Sie kaufen eine solche Wohnung, weil sie exakt diese Wohnung lieben und besitzen wollen. </p>
+
+<p>Natürlich dürfen Sie eine Wohnung lieb haben, sollten sie sogar, falls Sie dort alt werden wollen. Wenn es für Sie attraktiv ist, dort den Ruhestand zu verbringen, ist die Wahrscheinlichkeit hoch, dass auch andere Interessenten das so empfinden. Rendite garantiert das noch nicht, aber einen Wertverlust müssen Sie dann zumindest weniger fürchten.</p>
+
+<p>
+<b>Der Weg zum Eigenheim</b>
+</p>
+
+<p>
+<ul>
+<li>Wie viel Haus Sie sich leisten können? Das ist vergleichsweise einfach zu berechnen. Wie viel habe ich im Monat übrig, kann ich also sparen? Wie viel Nettokaltmiete zahle ich aktuell, die ich also auch für die eigene Immobilie ausgeben und zur Rate addieren könnte? Wie viel Bewirtschaftungskosten wird mich die neue Immobilie kosten? Bleiben dann zum Beispiel 1000 Euro übrig, <a href="http://www.finanztip.de/baufinanzierung/" target="_blank" title="" class="spTextlinkExt text-link-ext">darf die Monatsrate nicht höher sein</a>.</li>
+<li>Bis zur Rente sollte eine selbstgenutzte Immobilie abbezahlt sein. Habe ich die 1000 Euro übrig und noch 25 Jahre Zeit, dann kann ich bei zwei Prozent Zinsen gut 235.000 Euro Kredit schultern.</li>
+<li>Außerdem habe ich hoffentlich noch Erspartes, mit dem ich mindestens die Nebenkosten des Immobilienkaufs bestreiten kann (Makler, Grundsteuer, Grundbucheintragung etc.). Sie erhöhen die reinen Kaufkosten schnell <a href="http://www.finanztip.de/baufinanzierung/ohne-eigenkapital/" target="_blank" title="" class="spTextlinkExt text-link-ext">um noch einmal 15 Prozent</a>. </li>
+</ul>
+</p>
+
+<p>Sie haben eine Immobilie gefunden, die Sie auch bezahlen können? Jetzt brauchen Sie das optimale Finanzierungskonzept. </p>
+
+<p>
+<ul>
+<li>Mobilisieren Sie alles verfügbare Eigenkapital.</li>
+<li>Nutzen Sie auch vorhandene Fördertöpfe zum Beispiel bei der KfW.</li>
+<li>Nutzen Sie die niedrigen Zinsen für eine lange Zinsbindung, 15 Jahre sind prima.</li>
+<li>Tilgen Sie so schnell wie möglich: Drei Prozent Tilgung im Jahr oder mehr sind gut. Bei nur zwei Prozent Tilgung und den aktuell niedrigen Zinsen brauchen Sie 35 Jahre, um den Kredit zurückzuzahlen. </li>
+<li>Vereinbaren Sie Möglichkeiten für großzügige Sondertilgungen. </li>
+</ul>
+</p>
+
+<p>Mit dem Konzept wenden Sie sich an einen Baufinanzierungsvermittler und Ihre Hausbank. Nutzen Sie das günstigste Angebot, um ihre Verhandlungsposition mit der bevorzugten Bank zu verbessern. </p>
+
+<p>Und feilschen Sie ausdauernd, denn: Lassen Sie sich auf 2,1 Prozent Zinsen ein, statt auf 2,0 Prozent, dann kostet Sie das bei dem 235.000-Euro-Kredit und einer Monatsrate von 1000 Euro schon in <a href="http://www.finanztip.de/baufinanzierung/tilgungsrechner/" target="_blank" title="" class="spTextlinkExt text-link-ext">den ersten 15 Jahren über 3100 Euro mehr</a>.</p>
+
+<p>
+<div class="adition" id="content_ad_2" data-position="content_ad_2">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('content_ad_2');
+	</script>
+</div>
+Bei den Gesprächen mit Banken und Baufinanzierungsvermittlern sollten Sie Ihre Vorzüge als Kreditkunde in die Waagschale werfen: Ihren Plan selbst einzuziehen, finden Banken gut, auch Ihren möglichen Status als langjährige Angestellte oder als Beamte bewerten Banken positiv. Festes Gehalt ist besser als variables, eine Immobilie in guter Lage bewertet die Bank positiv und ein <a href="http://www.finanztip.de/baufinanzierung/" target="_blank" title="" class="spTextlinkExt text-link-ext">guter Schufa-Score nützt bei der Finanzierung</a> auch.</p>
+
+<p>Nehmen Sie sich ein Wochenende Zeit und rechnen Sie mal durch. </p>
+
+<p>Viel Erfolg.</p>
+
+<p>
+<hr class="msocomoff"/>
+<div class="asset-box asset-list-box clearfix">
+			<div class="asset-title">Zum Autor</div><ul class="list-listboxtext clearfix"><li><div class="column-box-pic asset-align-left box-position" style="width: 160px;">
+				<img src="http://cdn1.spiegel.de/images/image-808044-thumbbiga-tcjz.jpg" width="160" height="120" title="" alt="" style="" /><div style="width:160px;" class="asset-credit">Finanztip</div></div>
+
+		<b>Hermann-Josef Tenhagen</b> (Jahrgang 1963) ist Chefredakteur des gemeinnützigen Online-Verbrauchermagazins <a href="http://www.finanztip.de">"Finanztip"</a>. Tenhagen hat zuvor als Chefredakteur 15 Jahre lang die Zeitschrift "Finanztest" geführt. Nach seinem Studium der Politik und Volkswirtschaft begann er seine journalistische Karriere bei der "Tageszeitung". Dort ist er heute ehrenamtlicher Aufsichtsrat der Genossenschaft. Bei SPIEGEL ONLINE schreibt Tenhagen wöchentlich über den richtigen Umgang mit dem eigenen Geld.</li>
+					</ul>
+			</div>
+
+</p>
+
+</div>
+
+<div class="module-box home-link-box">
+	<a class="article-functions home-link" href="/#ref=article-body" title="Zur Startseite">Zur Startseite</a>
+</div>
+<div class="module-box function-box">
+				<div class="article-function-box-wide article-functions-bottom clearfix">
+					<div class="module-title">Diesen Artikel...</div>
+					<ul class="list-float clearfix">
+	<li class="list-float-left"><b><a href="/wirtschaft/service/eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551-druck.html" target="_blank" title="Traum vom Eigenheim: So lohnt sich jetzt der Immobilienkauf">Drucken</a></b></li>
+	<li class="list-float-left"><b><a href="/meinspiegel/merkliste/add.html?objekt=1061551&amp;name=article&amp;quelle=SPIEGEL+ONLINE">Merken</a></b></li>
+		<li class="list-float-left"><b><a href="/extra/a-267802.html" onclick="spOpenSendForm('de','mail'); return false;">Senden</a></b></li>
+	<li class="list-float-left feedback-item"><a href="/extra/a-267802.html" onclick="spOpenFeedbackForm(this, 'de'); return false;">Feedback</a></li>
+	<li class="list-float-left"><a href="/extra/a-853891.html">Nutzungsrechte</a></li>
+	</ul>
+</div>
+		<div class="article-social-bookmark clearfix">
+	<div class="fb-twitter-bar-bottom">
+		<ul class="list-float clearfix">
+
+				<li id="social-button-facebook-share-bottom" class="list-float-left"></li>
+				<script type="text/javascript">
+					spnetDynamicFrame('social_fbshare', 'social-button-facebook-share-bottom', 'spFacebookShareFrameBottom', '75px', '21px', 'http://www.facebook.com/v2.0/plugins/share_button.php?locale=de_DE&href=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&type=button&width=110&font=verdana&colorscheme=light&height=21');
+				</script>
+
+				<li id="social-button-facebook-bottom" class="list-float-left"></li>
+				<script type="text/javascript">
+					spnetDynamicFrame('social_fb', 'social-button-facebook-bottom', 'spFacebookFrameBottom', '370px', '40px', 'http://www.facebook.com/plugins/like.php?locale=de_DE&href=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&layout=standard&show_faces=false&width=480&action=recommend&font=verdana&colorscheme=light&height=22');
+				</script>
+
+				<li class="facebook-info-button">
+					<a href="/artikel/a-748826.html">
+						<img src="/static/sys/v10/icons/i-button.jpg" width="18" height="18" alt="Info" />
+					</a>
+				</li>
+				<div class="js-facebook-info-text spFbTwitterBarInfoText">
+					Aus Datenschutzgründen wird Ihre IP-Adresse nur dann gespeichert, wenn Sie angemeldeter und eingeloggter Facebook-Nutzer sind. Wenn Sie mehr zum Thema Datenschutz wissen wollen, klicken Sie auf das i.</div>
+			</ul>
+
+			<ul class="list-float clearfix">
+				<li id="social-button-twitter-bottom" class="list-float-left"></li>
+				<script type="text/javascript">
+					spnetDynamicFrame('social_tw', 'social-button-twitter-bottom', 'spTwitterFrameBottom', '110px', '22px', 'http://platform.twitter.com/widgets/tweet_button.html?count=horizontal&url=http%3A%2F%2Fspon.de%2FaeCjX&counturl=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&text=Traum%20vom%20Eigenheim%3A%20So%20lohnt%20sich%20jetzt%20der%20Immobilienkauf&via=SPIEGELONLINE&lang=de');
+				</script>
+
+				<li id="social-button-google-bottom" class="list-float-left"></li>
+					<script type="text/javascript">
+						spnetDynamicFrame('social_gplus', 'social-button-google-bottom', 'spGooglePlusFrameBottom', '130px', '22px', 'https://plusone.google.com/_/+1/fastbutton?url=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&size=medium&count=true&annotation=inline&width=180&hl=de&parent=http%3A%2F%2Fwww.spiegel.de&');
+					</script>
+				<li id="js-social-other-poster" class="more-social-media list-float-left clearfix">
+							<img src="/static/sys/v10/buttons/btn_plus_weitere.png" />
+							<p>Auf anderen Social Networks teilen</p>
+							<ul class="other-social-media list-float clearfix">
+								<li class="list-float-left xing"><a title="Xing" href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html;title=Traum+vom+Eigenheim%3A+So+lohnt+sich+jetzt+der+Immobilienkauf+-+SPIEGEL+ONLINE+-+Wirtschaft" target="_blank"></a></li>
+								<li class="list-float-left linkedin"><a title="LinkedIn" href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html" target="_blank"></a></li>
+								<li class="list-float-left tumblr"><a title="Tumblr" href="http://www.tumblr.com/share" target="_blank"></a></li>
+								<li class="list-float-left pinterest"><a title="Pinterest" href="http://pinterest.com/pin/create/link/?url=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html" target="_blank" data-pin-do="buttonBookmark" data-pin-shape="round"></a></li>
+								<li class="list-float-left delicious"><a title="deli.cio.us" href="http://del.icio.us/post?url=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&amp;title=Traum+vom+Eigenheim%3A+So+lohnt+sich+jetzt+der+Immobilienkauf+-+SPIEGEL+ONLINE+-+Wirtschaft" target="_blank"></a></li>
+								<li class="list-float-left digg"><a title="Digg" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&amp;title=Traum+vom+Eigenheim%3A+So+lohnt+sich+jetzt+der+Immobilienkauf+-+SPIEGEL+ONLINE+-+Wirtschaft" target="_blank"></a></li>
+								<li class="list-float-left reddit"><a title="reddit" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Fservice%2Feigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551.html&amp;title=Traum+vom+Eigenheim%3A+So+lohnt+sich+jetzt+der+Immobilienkauf+-+SPIEGEL+ONLINE+-+Wirtschaft" target="_blank"></a></li>
+							</ul>
+						</li>
+					</ul>
+	</div> </div></div><div id="spVeeseo"></div>
+			<script type="text/javascript">spDoVeeseo('1061551', '1446895020', '21', 'wirtschaft');</script>
+		<script type="text/javascript">
+<!--
+	var spBlogCommentsPhrase = {
+		"language"  		: "de",
+		"opencomments"  	: "Alle Kommentare öffnen",
+		"closecomments" 	: "Alle Kommentare schließen",
+		"seite"				: "Seite",
+		"von"				: "von",
+		"showcomment"		: "Kommentar anzeigen",
+		"showquote"			: "anzeigen...",
+		"msprefix"			: "/meinspiegel/",
+		"pruefelogin"		: "Prüfe Login...",
+		"ersterbeitrag"		: "Erster Beitrag im Forum: Alias wählen",
+		"sendebeitrag"		: "sende Beitrag...",
+		"sendebeitragok"	: "Vielen Dank! Ihr Kommentar wurde gespeichert und zur Freigabe an die Redaktion	geschickt.",
+		"loginexpired"		: "Anmeldung nicht mehr gültig!",
+		"willkommen"		: "Willkommen,"
+	};
+// -->
+</script>
+<div class="clearfix article-comments-box module-box">
+		<div class="module-title"><a href="/forum/wirtschaft/traum-vom-eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-thread-378274-1.html">Forum</a></div>
+		<div class="module-subtitle">
+			<a href="/forum/wirtschaft/traum-vom-eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-thread-378274-1.html" title="Forum">
+				<strong>Diskutieren Sie über diesen Artikel</strong>
+				<span></span>
+			</a>
+		</div>
+
+		<div id="einestages-comments-box" class="einestages-module-title">
+			<strong>Forum - Diskutieren Sie über diesen Artikel</strong>
+				<span></span>
+		</div>
+
+
+		<span>
+				insgesamt 16 Beiträge</span>
+
+				<div id="js-article-comments-box-pager">
+
+					<div class="js-article-comments-box-nav clearfix">
+							<a class="js-article-comments-toggle-all">Alle Kommentare öffnen</a>
+							<div class="js-pager-right">
+								<a href="#js-article-comments-box-pager" class="js-article-comments-box-page-first" title="Erste"><span>&nbsp;</span></a>
+								<a href="#js-article-comments-box-pager" class="js-article-comments-box-page-prev" title="zurück"><span>&nbsp;</span></a>
+								<span class="js-article-comments-box-page-count">Seite 1</span>
+								<a href="#js-article-comments-box-pager" class="js-article-comments-box-page-next" title="vor"><span>&nbsp;</span></a>
+								<a href="#js-article-comments-box-pager" class="js-article-comments-box-page-last" title="Letzte"><span>&nbsp;</span></a>
+							</div>
+						</div><div class="js-article-comments-box-content">
+						<div class="article-comment">
+			<div class="article-comment-title">
+				<a href="/forum/wirtschaft/traum-vom-eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-thread-378274-1.html#postbit_36945231">1. 20-fache der Jahreskaltmiete ist ein Witz</a>
+					</div>
+			<div class="article-comment-user">
+			<a href="/forum/member-315979.html">Sibylle1969</a> heute, 12:37 Uhr</div>
+			<div class="clearfix js-article-post-teaser js-article-post-more">Für das 20-fache meiner Jahreskaltmiete könnte ich hier in Frankfurt nur etwas in deutlich schlechterer Lage kaufen. In vergleichbarer Lage müsste ich mit dem 35- bis 40-fachen meiner Jahreskaltmiete rechnen. Das rechnet sich [...]</div>
+			<div class="js-article-post-full-text">Für das 20-fache meiner Jahreskaltmiete könnte ich hier in Frankfurt nur etwas in deutlich schlechterer Lage kaufen. In vergleichbarer Lage müsste ich mit dem 35- bis 40-fachen meiner Jahreskaltmiete rechnen. Das rechnet sich folglich nicht, zumal meine Miete noch über dem Mietspiegel liegt und somit in den nächsten Jahren kaum steigen kann.</div>
+		</div>
+	<div class="article-comment">
+			<div class="article-comment-title">
+				<a href="/forum/wirtschaft/traum-vom-eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-thread-378274-1.html#postbit_36945329">2. Herr Tenhagen also ne</a>
+					</div>
+			<div class="article-comment-user">
+			<a href="/forum/member-184759.html">steuben1978</a> heute, 12:40 Uhr</div>
+			<div class="clearfix js-article-post-teaser js-article-post-more">Sie glauben also wirklich die Wirtschaft läuft gut???? Die Wirtschaft wird noch immer von den Zentralbanken am Leben erhalten. Die Schwellenländer sind in Schwierigkeiten incl. China. Die USA erleben einen eher schwachen [...]</div>
+			<div class="js-article-post-full-text">Sie glauben also wirklich die Wirtschaft läuft gut???? Die Wirtschaft wird noch immer von den Zentralbanken am Leben erhalten. Die Schwellenländer sind in Schwierigkeiten incl. China. Die USA erleben einen eher schwachen Aufschwung trotz der massiven Geldspritze und die EU schlidert ständig an einer Deflation vorbei und auch das nur weil die Geldschleusen offen sind.
+
+Ein Wohnung kauft man aus meiner Sicht am besten am Beginn eines Aufschwungs. Eines Aufschwungs in dem die Löhne signifikant steigen (nein nicht die lächerlichen Lohnsteigerungen der vergangenen Jahrzehnte in Deutschland). Von den Löhnen kommt die Inflation und im Endeffekt später höhere Immobilien und Mietpreise pfff.</div>
+		</div>
+	<div class="article-comment">
+			<div class="article-comment-title">
+				<a href="/forum/wirtschaft/traum-vom-eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-thread-378274-1.html#postbit_36945637">3. Sondertilgungen</a>
+					</div>
+			<div class="article-comment-user">
+			<a href="/forum/member-206570.html">bo73</a> heute, 12:49 Uhr</div>
+			<div class="clearfix js-article-post-teaser js-article-post-more">Beim Punkt Sondertilgungen möchte ich widersprechen:  Sondertilgungsrechte würde ich nur dann vereinbaren, wenn ich wirklich realistische Aussichten auf eine größere Summe habe, die ich dann auch tatsächlich in die vorzeitige [...]</div>
+			<div class="js-article-post-full-text">Beim Punkt Sondertilgungen möchte ich widersprechen:  Sondertilgungsrechte würde ich nur dann vereinbaren, wenn ich wirklich realistische Aussichten auf eine größere Summe habe, die ich dann auch tatsächlich in die vorzeitige Tilgung stecken will. Banken lassen sich das Sondertilgungsrecht nämlich teuer bezahlen, in der Regel durch höhere Gebühren oder Zinsen. Die Erfahrung zeigt aber, dass die meisten Familien das teuer erkaufte Sondertilgungsrecht  im Endeeffekt gar nicht nutzen, sondern Sattdessen, wenn sie wirklich zu Geld kommen sollten, lieber in Renovierung, Ausbau, Autos oder Möbel investieren, eben in Dinge, die durch die am Anfang oftmals spürbar einschränkende Hausfinanzierung zu kurz gekommen sind. Der Rat, unbedingt ein Sondertilgungsrecht zu vereinbaren, ist aus meiner Sicht falsch und kostet die Betroffenen meist nur Geld.</div>
+		</div>
+	<div class="article-comment">
+			<div class="article-comment-title">
+				<a href="/forum/wirtschaft/traum-vom-eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-thread-378274-1.html#postbit_36945917">4. Herr Tenhagen schreibt uns alle noch ins Eigenheim</a>
+					</div>
+			<div class="article-comment-user">
+			<a href="/forum/member-493123.html">WwdW</a> heute, 12:55 Uhr</div>
+			<div class="clearfix js-article-post-teaser js-article-post-more">Weiter so. Bald haben wir alle ein Eigenheim, ob wir's wollen oder nicht.
+
+Ich habe meine Haus 2011 gekauft. Durch Glück hatte ich zu groß dimenionierte Bausparer, die heftige monatl. Rückzahlungraten hatten. Daneben einen [...]</div>
+			<div class="js-article-post-full-text">Weiter so. Bald haben wir alle ein Eigenheim, ob wir's wollen oder nicht.
+
+Ich habe meine Haus 2011 gekauft. Durch Glück hatte ich zu groß dimenionierte Bausparer, die heftige monatl. Rückzahlungraten hatten. Daneben einen normalen Kredit. Jetzt waren aber 2011 die Zinsen nicht so niedrig wie ca. im März-Mai diesen Jahre beim bisherigen Tiefststand. Wie auch immer. Ich habe dieses Jahr ein 2. Bankdarlehen aufgenommen und die Bausparer zurück bezahlt. Zinsersparnis ca. 14 000 Euro. Leider kann ich den ersten Bankkredit ohne Vorfälligkeitsgebühren etc. nicht vorzeitig durch einen günstigeres Bankdarlehen ersetzen.
+
+Naja. Trotzdem nicht schlecht bisher.</div>
+		</div>
+	<div class="article-comment">
+			<div class="article-comment-title">
+				<a href="/forum/wirtschaft/traum-vom-eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-thread-378274-1.html#postbit_36945945">5. </a>
+					</div>
+			<div class="article-comment-user">
+			<a href="/forum/member-170896.html">RenegadeOtis</a> heute, 12:56 Uhr</div>
+			<div class="clearfix js-article-post-teaser js-article-post-more">
+
+Also kaufen Sie einfach nicht. Sie haben die Faustformel richtig angewendet.
+
+Nebenbei: In Frankfurt zum Selbstwohnen ist momentan Irrsinn. Schauen Sie Richtung MAin-Kinzig- oder Main-Taunus-Kreis. Tipp: Oberursel ist jetzt [...]</div>
+			<div class="js-article-post-full-text"><div class="spForumQuote"><span class="spForumQuoteHeadline">Zitat von Sibylle1969</span><span class="spForumQuoteText">Für das 20-fache meiner Jahreskaltmiete könnte ich hier in Frankfurt nur etwas in deutlich schlechterer Lage kaufen. In vergleichbarer Lage müsste ich mit dem 35- bis 40-fachen meiner Jahreskaltmiete rechnen. Das rechnet sich folglich nicht, zumal meine Miete noch über dem Mietspiegel liegt und somit in den nächsten Jahren kaum steigen kann.</span></div>
+
+Also kaufen Sie einfach nicht. Sie haben die Faustformel richtig angewendet.
+
+Nebenbei: In Frankfurt zum Selbstwohnen ist momentan Irrsinn. Schauen Sie Richtung MAin-Kinzig- oder Main-Taunus-Kreis. Tipp: Oberursel ist jetzt auch nicht die cleverste Idee.
+
+DIe Verkehrsanbindungen sind, so Sie nicht mitten in der Innenstadt arbeiten, durchaus sehr gut.</div>
+		</div>
+	</div>
+					<div class="js-article-comments-box-nav clearfix">
+							<a class="js-article-comments-toggle-all">Alle Kommentare öffnen</a>
+							<div class="js-pager-right">
+								<a href="#js-article-comments-box-pager" class="js-article-comments-box-page-first" title="Erste"><span>&nbsp;</span></a>
+								<a href="#js-article-comments-box-pager" class="js-article-comments-box-page-prev" title="zurück"><span>&nbsp;</span></a>
+								<span class="js-article-comments-box-page-count">Seite 1</span>
+								<a href="#js-article-comments-box-pager" class="js-article-comments-box-page-next" title="vor"><span>&nbsp;</span></a>
+								<a href="#js-article-comments-box-pager" class="js-article-comments-box-page-last" title="Letzte"><span>&nbsp;</span></a>
+							</div>
+						</div></div>
+
+				<script type="text/javascript">
+				<!--
+ 				$(document).ready(function() {
+					var spBCP=new spBCPager($("#js-article-comments-box-pager"),"spon","378274",16);
+				});
+				// -->
+				</script>
+
+		<div id="js-article-comments-box-form" style="display:none;">
+					<div class="js-article-comments-box-form-headline asset-title">Ihr Kommentar zum Thema</div>
+					<div id="js-message"></div>
+					<div id="js-default-message">
+            			<div class="js-pager-right">
+							<a href="/meinspiegel/login.html" onclick="blogLoginCheck($('#js-article-comments-box-form-text')); return false">Anmelden</a>
+						| <a href="/meinspiegel/register.html?feature=forum" target="_blank">Registrieren</a>
+						</div>
+						Bitte melden Sie sich an, um zu kommentieren.</div>
+					<div id="article-comments-box-additional-info"><a href="/extra/spon-forum-so-wollen-wir-debattieren-a-1032920.html" title="Das SPON-Forum: So wollen wir debattieren " class="text-link-int"><span class="asset-headline-intro">Das SPON-Forum:</span> <span class="asset-headline">So wollen wir debattieren</span></a></div>
+					<script type="text/javascript">
+						<!--
+						spUpdateForumLoginLinks();
+						// -->
+					</script>
+
+					<form class="clearfix">
+						<input type="hidden" name="threadid" value="378274" />
+						<div id="js-comments-box-form-entry-alias" style="display:none;">
+							<label for="alias">Forumname</label>
+							<input class="js-blog-login-check" type="text" name="alias" />
+						</div>
+						<div id="spAliasInfo"></div>
+						<div id="js-article-comments-box-form-subject">
+							<label for="subject">Überschrift</label>
+							<input class="js-blog-login-check" type="text" name="subject" onfocus="if(this.value==this.defaultValue){this.value='';this.style.color='#000';};" value="optional"/>
+						</div>
+						<div id="js-article-comments-box-form-text">
+							<label for="text">Beitrag</label>
+							<textarea	class="js-blog-login-check" name="content"></textarea>
+						</div>
+						<p class="einestages-forum-info"><strong>Bitte beachten: Auf <i>einestages</i> können Hinweise nur unter Ihrem Klarnamen veröffentlicht werden. </strong></p>
+						<input type="button" class="form-button js-blog-login-check clearfix" id="js-comments-box-form-entry-submit" value="Kommentar senden" />
+					</form>
+				</div>
+			</div>
+<div class="adition" id="footer_ad" data-position="footer_ad">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('footer_ad');
+	</script>
+</div>
+<div class="article-copyright"><p>
+	<strong>© SPIEGEL ONLINE 2015</strong><br />
+
+			Alle Rechte vorbehalten<br/>
+			<a href="/extra/a-853891.html">Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH</a></p></div>
+<br class="clearfix" />
+					</div>
+
+					<div class="column-small">
+
+							<div class="adition" id="subchannel_teaser" data-position="subchannel_teaser">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('subchannel_teaser');
+	</script>
+</div>
+<br class="clearfix" />
+
+<ul class="article-function-box">
+
+		<li class="article-function-date">
+<time class="timeformat" itemprop="datePublished" datetime="2015-11-07 12:17:00">
+					Samstag, 07.11.2015 &ndash; 12:17 Uhr</time>
+			</li>
+		<li class="article-functions">
+				<a href="/wirtschaft/service/eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-kolumne-a-1061551-druck.html" target="_blank" title="Traum vom Eigenheim: So lohnt sich jetzt der Immobilienkauf">Drucken</a> <a href="/extra/a-267802.html" onclick="spOpenSendForm('de','mail'); return false;">Senden</a> <script type="text/javascript">
+					<!--
+						if( spMSisLoggedIn() && SPONgetCookie('wiWlNumBookmarks') && /^[1-9][0-9]*$/.test(SPONgetCookie('wiWlNumBookmarks')) ){
+							document.write('<a href="/meinspiegel/merkliste/add.html?objekt=1061551&amp;name=article&amp;quelle=SPIEGEL+ONLINE">Merken (' + SPONgetCookie('wiWlNumBookmarks') + ')</a>');
+						}else{
+							document.write('<a href="/meinspiegel/merkliste/add.html?objekt=1061551&amp;name=article&amp;quelle=SPIEGEL+ONLINE">Merken</a>');
+						}
+					// -->
+					</script>
+				</li>
+
+			<li class="article-functions article-feedback">
+				<a href="/extra/a-853891.html">Nutzungsrechte</a> <a href="/extra/a-267802.html" onclick="spOpenFeedbackForm(this, 'de'); return false;">Feedback</a></li>
+
+		<li id="spArticleFunctionForum" class="article-function-forum">
+		<a href="/forum/wirtschaft/traum-vom-eigenheim-so-lohnt-sich-jetzt-der-immobilienkauf-thread-378274-1.html">Kommentieren&nbsp;| 16&nbsp;Kommentare</a>
+		</li>
+</ul>
+<div class="asset-box article-topic-box ">
+		<ul>
+	        <li class="is-first"><h4><a href="/thema/bausparen/">Bausparen</a></h4></li>
+					<li><b><a href="/thema/meinung/">Meinung</a></b></li>
+					<li><b><a href="/thema/immobilien/">Immobilien</a></b></li>
+					<li><b><a href="/thema/immobilienmarkt/">Immobilienmarkt</a></b></li>
+					<li><b><a href="/thema/zinsen/">Zinsen</a></b></li>
+					<li><b><a href="/thema/banken/">Banken</a></b></li>
+					<li class="article-topics-all"><b><a href="/thema" >Alle Themenseiten</a></b></li>
+					</ul>
+	</div>
+<div class="asset-box asset-link-box">
+		<div class="asset-title">Mehr auf SPIEGEL ONLINE</div>
+		<ul>
+		<li>
+	<a href="/wirtschaft/service/gfk-konsumklima-europas-verbraucher-bleiben-in-kauflaune-a-1057739.html" title=" Konsumklima:   Europas Verbraucher lassen sich Kauflaune nicht vermiesen "><span class="asset-headline-intro">Konsumklima:</span> <span class="asset-headline">Europas Verbraucher lassen sich Kauflaune nicht vermiesen</span></a> (14.10.2015)</li><li>
+	<a href="/wirtschaft/rechtstrick-baudarlehen-vorzeitig-abloesen-a-1052548.html" title=" Mangelhafte Widerrufsbelehrung:   So steigen Hausbesitzer aus teuren Krediten aus "><span class="asset-headline-intro">Mangelhafte Widerrufsbelehrung:</span> <span class="asset-headline">So steigen Hausbesitzer aus teuren Krediten aus</span></a> (12.09.2015)</li><li>
+	<a href="/wirtschaft/service/kredit-illegale-bearbeitungsgebuehr-wie-sie-ihr-geld-zurueckholen-a-1031741.html" title=" Unzulässige Kreditgebühren:   Wir geben nichts "><span class="asset-headline-intro">Unzulässige Kreditgebühren:</span> <span class="asset-headline">Wir geben nichts</span></a> (02.05.2015)</li></ul>
+	</div>
+<div class="adition" id="spezial_teaser" data-position="spezial_teaser">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('spezial_teaser');
+	</script>
+</div>
+<div class="adition" id="promotion_ad_1" data-position="promotion_ad_1">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('promotion_ad_1');
+	</script>
+</div>
+<br class="clearfix" />
+		<div class="adition" id="promotion_ad_2" data-position="promotion_ad_2">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('promotion_ad_2');
+	</script>
+</div>
+<br class="clearfix" />
+		<div class="adition" id="promotion_ad_3" data-position="promotion_ad_3">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('promotion_ad_3');
+	</script>
+</div>
+<br class="clearfix" />
+		<div class="adition" id="promotion_ad_4" data-position="promotion_ad_4">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('promotion_ad_4');
+	</script>
+</div>
+<br class="clearfix" />
+		<div class="adition" id="promotion_ad_vertrieb" data-position="promotion_ad_vertrieb">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('promotion_ad_vertrieb');
+	</script>
+</div>
+<br class="clearfix" />
+<div class="adition" id="promotion_ad_5" data-position="promotion_ad_5">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('promotion_ad_5');
+	</script>
+</div>
+<br class="clearfix" />
+</div>
+					<div class="top-anchor link-gradient-button-box">
+						<a href="#" class="link-gradient-button"><span>TOP</span></a>
+					</div>
+				</div>
+
+				<div id="footer">
+	<div id="footer-content">
+
+		<div class="footer-partner-bar" id="spPartnerBar">
+<h4>Mehr Serviceangebote von SPIEGEL-ONLINE-Partnern</h4>
+
+<!-- AUTO -->
+<ul class="spFirst">
+<li>
+<h5>AUTO</h5>
+</li>
+
+<li>
+<span>
+<a href="http://www.spiegel.de/auto/aktuell/benzinpreisvergleich-die-guenstigste-tankstelle-in-ihrer-naehe-a-185826.html" rel="nofollow" style="background-position:0 -33px;">
+Benzinpreis
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://www.spiegel.de/auto/aktuell/bussgeldrechner-was-zu-schnelles-fahren-kostet-a-244772.html" rel="follow" style="background-position:0 -953px;">
+Bußgeld-<br/>rechner
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3094399&kid=1218231&bid=3980733" rel="follow" style="background-position:0 -90px;" title="Anzeige">
+Neu-/Gebraucht-<br/>Fahrzeuge
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://werkstattvergleich.spiegel.de" rel="follow" style="background-position:0 -1110px;" title="Anzeige">
+Werkstatt-<br/>vergleich
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076397&kid=1440881&bid=4858488" rel="follow" style="background-position:0 -690px;" title="Anzeige">
+Kfz-<br/>Versicherung
+</a>
+</span>
+</li>
+
+
+</ul>
+
+<!-- FREIZEIT 1 -->
+<ul class="spFirst">
+<li>
+<h5>FREIZEIT</h5>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076399&kid=1212962&bid=3961622" rel="follow" style="background-position:0 -900px;" title="Anzeige">
+Eurojackpot
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3098102&kid=1219791&bid=3986933" rel="follow" style="background-position:0 -870px;" title="Anzeige">
+Lottozahlen
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://www.amazon.de/b/ref=amb_link_51544565_1?ie=UTF8&node=4206085031&pf_rd_m=A3JWKAKR8XB7XF&pf_rd_s=center-1&pf_rd_r=0Y7KSJRQ0GD1TQVBZFBX&pf_rd_t=1401&pf_rd_p=515157807&pf_rd_i=1000127753&tag=wwwspiegelde-21" rel="follow" style="background-position:0 -180px;">
+Bücher<br/>bestellen
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://www.spiegel.de/wissenschaft/mensch/zahlenraetsel-sudoku-der-logik-klassiker-fuer-jeden-tag-a-994416.html" rel="follow" style="background-position:0 -1018px;">
+Sudoku
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://www.spiegel.de/wissenschaft/mensch/kenken-das-zahlenraetsel-aus-japan-a-994418.html" rel="follow" style="background-position:0 -1049px;">
+Kenken
+</a>
+</span>
+</li>
+
+</ul>
+
+
+<!-- FREIZEIT 2 -->
+
+<ul>
+<li>
+<h5 style="color: #f6f6f6;">AUTO UND FREIZEIT</h5>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3088032&kid=1214236&bid=3966039" rel="nofollow" style="background-position:0 -240px;" title="Anzeige">
+Arztsuche
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076405&kid=1212883&bid=3961306" rel="follow" style="background-position:0 -331px;" title="Anzeige">
+DSL-Vergleich
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3080261&kid=1209367&bid=3947432" rel="follow" style="background-position:0 -984px;" title="Anzeige">
+Hörgeräte-<br/>Beratung
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://www.spiegel.de/schulspiegel/ferientermine-a-193925.html" rel="follow" style="background-position:0 -154px;">
+Ferientermine
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3341608&kid=1427942&bid=4781056" rel="follow" style="background-position:0 -1153px;" title="Anzeige">
+Traumreise
+</a>
+</span>
+</li>
+
+
+</ul>
+
+
+<!-- ENERGIE -->
+
+<ul>
+<li>
+<h5>ENERGIE</h5>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076403&kid=1212850&bid=3961217" rel="follow" style="background-position:0 -390px;" title="Anzeige">
+Gasanbieter-<br/>vergleich
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076404&kid=1212872&bid=3961268" rel="nofollow" style="background-position:0 -419px;" title="Anzeige">
+Stromanbieter-<br/>vergleich
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="https://ratgeber.co2online.de/index.php?berater=ratgeberauswahl&amp;portal_id=spiegel_online" rel="nofollow" style="background-position:0 -450px;" title="Anzeige">
+Energiespar-<br/>ratgeber
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076397&kid=1212362&bid=3958971" rel="nofollow" style="background-position:0 -479px;" title="Anzeige">
+Energie-<br/>vergleiche
+</a>
+</span>
+</li>
+
+</ul>
+
+<!-- JOB -->
+
+<ul>
+<li>
+<h5>JOB</h5>
+</li>
+
+<li>
+<span>
+<a href="http://www.personalmarkt.de/source-links/spiegel/serviceangebotebox.html" rel="nofollow" style="background-position:0 -512px;" title="Anzeige">
+Gehaltscheck
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://www.spiegel.de/wirtschaft/service/brutto-netto-rechner-was-von-ihrem-lohn-noch-uebrig-bleibt-a-223811.html" rel="follow" style="background-position:0 -90px;">
+Brutto-Netto-<br/>Rechner
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://www.spiegel.de/unispiegel/studium/tools-hier-werden-sie-geholfen-a-640620.html" rel="follow" style="background-position:0 -540px;">
+Uni-Tools
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076402&kid=1213135&bid=3962765" rel="follow" style="background-position:0 -840px;" title="Anzeige">
+Jobsuche
+</a>
+</span>
+</li>
+
+</ul>
+
+<!-- FINANZEN 1 -->
+
+<ul>
+<li>
+<h5>FINANZEN</h5>
+</li>
+
+
+<li>
+<span>
+<a href="http://boersen.manager-magazin.de/spo_mmo/kurse_crossrates.htm?p=0" rel="follow" style="background-position:0 -90px;">
+Währungs-<br/>rechner
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3076400&kid=1212996&bid=3961839" rel="nofollow" style="background-position:0 -749px;" title="Anzeige">
+Immobilien-<br/>Börse
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="http://ad8.adfarm1.adition.com/redi?sid=3078844&kid=1208143&bid=3944225" rel="nofollow" style="background-position:0 -627px;" title="Anzeige">
+Kredit-<br/>vergleich
+</a>
+</span>
+</li>
+
+<li>
+<span>
+<a href="/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html " rel="follow" style="background-position:0 -690px;">
+Versicherungen
+</a>
+</span>
+</li>
+
+
+</ul>
+
+<!-- TESTZWECKE -->
+<script type="text/javascript">
+//
+if ('safari' in window && 'pushNotification' in window.safari) {
+(function(){
+var pushNotification = window.safari.pushNotification,
+     webserviceUrl = "https://www.spiegel.de/push/apns/macos",
+     websitePushID = "web.de.spiegel.spon";
+function checkRemotePermission(permissionData) {
+    if (permissionData.permission === 'default') {
+        pushNotification.requestPermission(webserviceUrl, websitePushID, {}, checkRemotePermission);
+    }
+}
+checkRemotePermission(pushNotification.permission(websitePushID));
+}());
+}
+//
+</script>
+
+</div><div class="footer-main-nav">
+					<ul class="clearfix">
+						<li><a href="/">Home</a></li>
+						<li><a href="/politik/">Politik</a></li>
+						<li><a href="/wirtschaft/">Wirtschaft</a></li>
+						<li><a href="/panorama/">Panorama</a></li>
+						<li><a href="/sport/">Sport</a></li>
+						<li><a href="/kultur/">Kultur</a></li>
+						<li><a href="/netzwelt/">Netzwelt</a></li>
+						<li><a href="/wissenschaft/">Wissenschaft</a></li>
+						<li><a href="/gesundheit/">Gesundheit</a></li>
+						<li><a href="/einestages/">einestages</a></li>
+						<li><a href="/unispiegel/">Uni</a></li>
+						<li><a href="/reise/">Reise</a></li>
+						<li><a href="/auto/">Auto</a></li>
+						<li><a href="/stil/">Stil</a></li>
+						<li><a href="/wetter/">Wetter</a></li>
+					</ul>
+				</div>
+
+				<div class="footer-sub-nav">
+					<ul>
+						<li><strong>DIENSTE</strong></li>
+						<li><a href="/schlagzeilen/">Schlagzeilen</a></li>
+						<li><a href="/nachrichtenarchiv/">Nachrichtenarchiv</a></li>
+						<li><a href="/dienste/a-271804.html">RSS</a></li>
+						<li><a href="/dienste/a-902432.html">Newsletter</a></li>
+						<li><a href="/dienste/a-419947.html">Mobil</a></li>
+						</ul>
+					<ul>
+						<li><strong>VIDEO</strong></li>
+						<li><a href="/video/">Nachrichten Videos</a></li>
+						<li><a href="/sptv/magazin/">SPIEGEL TV Magazin</a></li>
+						<li><a href="/sptv/programm/">SPIEGEL TV Programm</a></li>
+						<li><a href="http://www.spiegel-geschichte.tv/" target="_blank">SPIEGEL Geschichte</a></li>
+						<li><a href="http://www.spiegelwissen.tv" target="_blank">SPIEGEL TV Wissen</a></li>
+					</ul>
+					<ul>
+						<li><strong>MEDIA</strong></li>
+						<li><a href="http://www.spiegel-qc.de/" target="_blank">SPIEGEL QC</a></li>
+						<li><a href="/mediadaten/" target="_blank">Mediadaten</a></li>
+						<li><a href="http://www.spiegel-qc.de/selbstbuchungstool" target="_blank">Selbstbuchungstool</a></li>
+						<li><a href="http://www.quality-abo.de/" target="_blank">weitere Zeitschriften</a></li>
+					</ul>
+					<ul>
+						<li><strong>MAGAZINE</strong></li>
+						<li><a href="/spiegel/">DER SPIEGEL</a></li>
+						<li><a href="/deinspiegel/">Dein SPIEGEL</a></li>
+						<li><a href="/spiegelgeschichte/">SPIEGEL GESCHICHTE</a></li>
+						<li><a href="/spiegelwissen/">SPIEGEL WISSEN</a></li>
+						<li><a href="/spiegel/unispiegel/">UNI SPIEGEL</a></li>
+					</ul>
+					<ul>
+						<li><strong>SPIEGEL GRUPPE</strong></li>
+						<li><a href="http://abo.spiegel.de/?b=SPOHFOOTER&amp;utm_source=spon&amp;utm_medium=text&amp;utm_content=SPOHFOOTER&amp;utm_campaign=abbinder">Abo</a></li>
+						<li><a href="http://www.spiegel.de/shop" target="_blank">Shop</a></li>
+						<li><a href="/sptv/">SPIEGEL&nbsp;TV</a></li>
+						<li><a href="http://www.manager-magazin.de/" target="_blank">manager&nbsp;magazin</a></li>
+						<li><a href="http://www.harvardbusinessmanager.de/" target="_blank">Harvard Business Man.</a></li>
+						<li><a href="http://www.buchreport.de/" target="_blank">buchreport</a></li>
+						<li><a href="http://www.buchaktuell.de/" target="_blank">buch aktuell</a></li>
+						<li><a href="http://www.der-audio-verlag.de/" target="_blank">Der Audio Verlag</a></li>
+						<li><a href="http://www.spiegelgruppe.de/" target="_blank">SPIEGEL-Gruppe</a></li>
+					</ul>
+					<ul>
+						<li><strong>WEITERE</strong></li>
+						<li><a href="/hilfe/">Hilfe</a></li>
+						<li><a href="/kontakt/">Kontakt</a></li>
+						<li><a href="/extra/a-853891.html">Nutzungsrechte</a></li>
+						<li><a href="/dienste/a-639126.html">Datenschutz</a></li>
+						<li><a href="/impressum/">Impressum</a></li>
+					</ul>
+				</div>
+				<div class="top-anchor link-gradient-button-box">
+					<a href="#" class="link-gradient-button"><span>TOP</span></a>
+				</div>
+
+				<div class="adition" id="interne_statistik" data-position="interne_statistik">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('interne_statistik');
+	</script>
+</div>
+</div> </div> <script type="text/javascript">var spBemiCh=21;</script>
+	<script type="text/javascript">
+	var spBemiOn=true;
+	if( typeof(sp_webcfg_global) !== "undefined" && typeof(sp_webcfg_global.spBemi) !== "undefined" && typeof(sp_webcfg_global.spBemi.on) !== "undefined") {
+		spBemiOn = sp_webcfg_global.spBemi.on;
+		if(spBemiOn === true) {
+			var spBemiChBlk=[];
+			if( typeof(sp_webcfg_global.spBemi.blk) !== "undefined" ) {
+				spBemiChBlk = sp_webcfg_global.spBemi.blk;
+				if (spBemiChBlk.indexOf(spBemiCh) !== -1) spBemiOn = false;
+			}
+		}
+	}
+	</script>
+</div> </div> <div id="spColumnAd">
+	<div id="qcRight">
+		<div class="adition" id="skyscraper" data-position="skyscraper">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('skyscraper');
+	</script>
+</div>
+<br class="clearfix" />
+	</div>
+	<div class="adition" id="wallpaper" data-position="wallpaper">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('wallpaper');
+	</script>
+</div>
+<br class="clearfix" />
+	<div class="adition" id="layer_ad" data-position="layer_ad">
+	<script type="text/javascript">
+		if (typeof ADI != 'undefined') ADI.ad('layer_ad');
+	</script>
+</div>
+<br class="clearfix" />
+</div>
+<!-- kein sharedcount --></div> <div id="article-overscroll-area"></div>
+		<script type="text/javascript">
+	<!--
+        var channel = 'Wirtschaft';
+        var authors = 'Hermann-Josef Tenhagen';
+		spDoGa(false);
+	-->
+</script>
+<script type="text/javascript">
+	<!--
+
+			spVgWortCount('d533dbcb1dbd463686ec1a65f68c49d3', '21');
+
+			spAutoOpenSendForm('de','mail');
+
+		spGotoBlogComment();
+	// -->
+	</script>
+
+</body>
+</html>
