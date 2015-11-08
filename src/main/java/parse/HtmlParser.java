@@ -40,6 +40,8 @@ public class HtmlParser {
 					break;
 
 				case COMMENT:
+				case PREAMBLE:
+				case DOCTYPE:
 					// ignore for now
 					lexer.next();
 					continue outer;

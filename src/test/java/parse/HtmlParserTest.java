@@ -12,6 +12,8 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
+import java.util.function.BiFunction;
+import java.util.stream.Collectors;
 
 import org.junit.Test;
 
@@ -110,8 +112,39 @@ public class HtmlParserTest {
 	}
 
 	@Test
+	public void list_dependencies() throws Exception {
+		String content = new String(Files.readAllBytes(Paths.get("pom.xml")), StandardCharsets.UTF_8);
+
+		BiFunction<ElementNode, String, String> getTagValue = (node, tag) -> node.getChildNodes().stream()
+				.filter(c -> c.getTagName().equals(tag))
+				.findAny()
+				.get()
+				.getTrimmedStringContent();
+
+		List<String> deps = new LinkedList<>();
+		new HtmlParser(content).parseDoc().accept(new HtmlVisitor() {
+			@Override
+			public void visitElement(ElementNode elementNode) {
+				if (elementNode.getTagName().equals("dependency")) {
+					String line = asList("groupId", "artifactId", "version").stream()
+							.map(tag -> getTagValue.apply(elementNode, tag))
+							.collect(Collectors.joining(":"));
+					deps.add(line);
+				}
+			}
+		});
+
+		deps.forEach(System.out::println);
+
+		assertThat(deps, is(asList(
+				"junit:junit:4.10",
+				"com.google.guava:guava:18.0"
+		)));
+	}
+
+	@Test
 	public void spiegel() throws Exception {
-		byte[] bytes = Files.readAllBytes(Paths.get("src", this.getClass().getPackage().getName(), "spiegel.txt"));
+		byte[] bytes = Files.readAllBytes(Paths.get("src/test/java", this.getClass().getPackage().getName(), "spiegel.txt"));
 		String content = new String(bytes, StandardCharsets.ISO_8859_1);
 
 		DocNode docNode = parse(content);

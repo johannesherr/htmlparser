@@ -36,18 +36,6 @@ public class ElementNode extends ASTNode {
 	}
 
 	@Override
-	public String toString() {
-		return "ElementNode{" +
-				"open=" + open +
-				", name=" + name +
-				", attribs=" + attribs +
-				", children=" + children +
-				", close=" + close +
-				", closeTag=" + closeTag +
-				'}';
-	}
-
-	@Override
 	public void accept(HtmlVisitor visitor) {
 		visitor.visitElement(this);
 		for (ASTNode child : children) {
@@ -85,5 +73,30 @@ public class ElementNode extends ASTNode {
 			}
 		}
 		return ret;
+	}
+
+	public String getTrimmedStringContent() {
+		List<ASTNode> children = getChildren();
+		if (children.size() != 1) throw new IllegalStateException("more than one child");
+
+		ASTNode child = children.get(0);
+		if (child instanceof TextNode) {
+			TextNode textNode = (TextNode) child;
+			return textNode.trimmedString();
+		} else {
+			throw new IllegalStateException("only child is not a text node");
+		}
+	}
+
+	@Override
+	public String toString() {
+		return "ElementNode{" +
+				"open=" + open +
+				", name=" + name +
+				", attribs=" + attribs +
+				", children=" + children +
+				", close=" + close +
+				", closeTag=" + closeTag +
+				'}';
 	}
 }

@@ -119,7 +119,13 @@ public class HtmlLexerTest {
 	public void specials_in_text() throws Exception {
 		List<HtmlLexer.Token> tokens = lex("<foo>asdf - bar ! </foo>");
 
-		print(tokens);
+		assertThat(tokens.get(0).toString(), is("Token{start=0, end=1, val='<', type=OPEN}"));
+		assertThat(tokens.get(1).toString(), is("Token{start=1, end=4, val='foo', type=NAME}"));
+		assertThat(tokens.get(2).toString(), is("Token{start=4, end=5, val='>', type=CLOSE}"));
+		assertThat(tokens.get(3).toString(), is("Token{start=5, end=18, val='asdf - bar ! ', type=TEXT}"));
+		assertThat(tokens.get(4).toString(), is("Token{start=18, end=20, val='</', type=OPEN_END}"));
+		assertThat(tokens.get(5).toString(), is("Token{start=20, end=23, val='foo', type=NAME}"));
+		assertThat(tokens.get(6).toString(), is("Token{start=23, end=24, val='>', type=CLOSE}"));
 	}
 
 	@Test
@@ -134,15 +140,36 @@ public class HtmlLexerTest {
 		assertThat(tokens.get(5).toString(), is("Token{start=12, end=15, val='foo', type=NAME}"));
 		assertThat(tokens.get(6).toString(), is("Token{start=15, end=16, val='>', type=CLOSE}"));
 	}
+	
+	@Test
+	public void xml_preamble() throws Exception {
+		List<HtmlLexer.Token> tokens = lex("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<foo/>");
 
+		assertThat(tokens.get(0).toString(), is("Token{start=0, end=38, val='<?xml version=\"1.0\" encoding=\"UTF-8\"?>', type=PREAMBLE}"));
+		assertThat(tokens.get(1).toString(), is("Token{start=38, end=39, val='\\n', type=TEXT}"));
+		assertThat(tokens.get(2).toString(), is("Token{start=39, end=40, val='<', type=OPEN}"));
+		assertThat(tokens.get(3).toString(), is("Token{start=40, end=43, val='foo', type=NAME}"));
+		assertThat(tokens.get(4).toString(), is("Token{start=43, end=45, val='/>', type=CLOSE_END}"));	
+	}
+	
+	@Test
+	public void html_doctype() throws Exception {
+		List<HtmlLexer.Token> tokens = lex("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"><foo/>");
+		
+		assertThat(tokens.get(0).toString(), is("Token{start=0, end=102, val='<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">', type=DOCTYPE}"));
+		assertThat(tokens.get(1).toString(), is("Token{start=102, end=103, val='<', type=OPEN}"));
+		assertThat(tokens.get(2).toString(), is("Token{start=103, end=106, val='foo', type=NAME}"));
+		assertThat(tokens.get(3).toString(), is("Token{start=106, end=108, val='/>', type=CLOSE_END}"));
+	}
+	
 	@Test
 	public void spiegel() throws Exception {
-		byte[] bytes = Files.readAllBytes(Paths.get("src", this.getClass().getPackage().getName(), "spiegel.txt"));
+		byte[] bytes = Files.readAllBytes(Paths.get("src/test/java", this.getClass().getPackage().getName(), "spiegel.txt"));
 		String text = new String(bytes, StandardCharsets.ISO_8859_1);
 		
 		List<HtmlLexer.Token> tokens = lex(text);
 
-		assertThat(tokens.size(), is(12_354));
+		assertThat(tokens.size(), is(12_355));
 	}
 
 	private void print(List<HtmlLexer.Token> tokens) {
@@ -158,7 +185,7 @@ public class HtmlLexerTest {
 	private void genAsserts(List<HtmlLexer.Token> tokens) {
 		int i = 0;
 		for (HtmlLexer.Token token : tokens) {
-			System.out.println(String.format("assertThat(tokens.get(%2$d).toString(), is(\"%1$s\"));", token.toString().replace("\\", "\\\\"), i++));
+			System.out.println(String.format("assertThat(tokens.get(%2$d).toString(), is(\"%1$s\"));", token.toString().replace("\\", "\\\\").replace("\"", "\\\""), i++));
 		}
 	}
 	

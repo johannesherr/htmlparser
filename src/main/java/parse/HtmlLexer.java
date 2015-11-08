@@ -25,7 +25,7 @@ public class HtmlLexer {
 	private void lex() {
 		while (i < s.length()) {
 			char c = s.charAt(i);
-			
+
 			switch (state) {
 				case States.IN_ELEMENT:
 				case States.OPEN_SEEN:
@@ -107,7 +107,11 @@ public class HtmlLexer {
 				case States.INITIAL:
 					switch (c) {
 						case '<':
-							if (state == States.INITIAL) {
+							if (lookingAt("<?")) {
+								readPreamble();
+							} else if (lookingAt("<!") && !lookingAt("<!--")) {
+								readDocType();
+							} else if (state == States.INITIAL) {
 								state = States.OPEN_SEEN;
 								start = i;
 							} else {
@@ -132,6 +136,46 @@ public class HtmlLexer {
 		if (state != States.INITIAL) lexerError();
 	}
 
+	private void readDocType() {
+		readChars("<!");
+
+		if (skipAfter(">") == -1) {
+			throw new AssertionError("unclosed doctype");
+		}
+
+		i--;
+		createToken(TokenType.DOCTYPE);
+	}
+
+	private void readPreamble() {
+		start = i;
+		readChars("<?");
+
+		if (skipAfter("?>") == -1) {
+			throw new AssertionError("unclosed preamble");
+		}
+
+		i--;
+		createToken(TokenType.PREAMBLE);
+	}
+	
+	private void readChars(String cs) {
+		for (char c : cs.toCharArray()) {
+			readChar(c);
+		}
+	}
+
+	private void readChar(char c) {
+		if (i >= s.length()) {
+			throw new AssertionError("expected to see character '" + c + "', but was EOF");
+		}
+		char r = s.charAt(i++);
+		if (r != c) {
+			throw new AssertionError("expected to see character '" + c + "', but was '" + r + "'");
+		}
+		// else success
+	}
+	
 	private void readName() {
 		start = i;
 		outer:
@@ -202,7 +246,8 @@ public class HtmlLexer {
 	private int skipAfter(String target) {
 		for (; i < s.length(); i++) {
 			if (lookingAt(target)) {
-				return i + target.length();
+				i = i + target.length();
+				return i;
 			}
 		}
 		return -1;
@@ -291,6 +336,6 @@ public class HtmlLexer {
 	public enum TokenType {
 		OPEN, CLOSE, OPEN_END, CLOSE_END,
 		NAME, TEXT, EQ, STRING, COMMENT,
-		OPEN_DOCTYPE, EOF;
+		DOCTYPE, EOF, PREAMBLE;
 	}
 }
