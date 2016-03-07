@@ -85,7 +85,7 @@ public class HtmlParser {
 			CloseTag closeTag = parseCloseNode(elementNode);
 			if (!closeTag.getName().equals(name.val)) {
 				throw new AssertionError("wrong close tag, expected '" + name.val +
-						"', but was '" + closeTag.getName() + "' at offset: " + closeTag.getStart());
+						"', but was '" + closeTag.getName() + "' at offset: " + closeTag.start());
 			}
 			elementNode.setChildren(children);
 			elementNode.setCloseTag(closeTag);

@@ -142,6 +142,62 @@ public class HtmlParserTest {
 		)));
 	}
 
+	/**
+	 * Parse Attributes, with Offset-Data.
+	 */
+	@Test
+	public void attribOffsets() throws Exception {
+		String text = "<f abc=\"123\" de=\"foo\"></f>";
+		DocNode node = parse(text);
+		ElementNode elem = (ElementNode) node.getChildren().get(0);
+
+		List<AttributeNode> attributes = elem.getAttributes();
+		System.out.println("attributes = " + attributes);
+		assertThat(attributes.size(), is(2));
+
+		assertThat(attributes.get(0).start(), is(3));
+		assertThat(attributes.get(0).end(), is(12));
+
+		assertThat(
+				text.substring(
+						attributes.get(1).start(),
+						attributes.get(1).end()), is("de=\"foo\""));
+	}
+
+	/**
+	 * AST-Visitor visits attributes.
+	 */
+	@Test
+	public void visit_attributes() throws Exception {
+		String text = "<f abc=\"123\" de=\"foo\"></f>";
+		DocNode node = parse(text);
+
+		List<List<String>> attribs = new LinkedList<>();
+		node.accept(new HtmlVisitor() {
+			@Override
+			public void visitAttribute(AttributeNode attributeNode) {
+				attribs.add(asList(attributeNode.getName(), attributeNode.getValue()));
+				super.visitAttribute(attributeNode);
+			}
+		});
+
+		assertThat(attribs, is(asList(
+				asList("abc", "123"),
+				asList("de", "foo"))));
+	}
+	
+	/**
+	 * Convenience for attribute access.
+	 */
+	@Test
+	public void getAttributShortcut() throws Exception {
+		ElementNode elem = (ElementNode) parse("<foo name=\"doe\" foo=\"123\"/>").getChildren().get(0);
+
+		assertThat(elem.getAttribute("name").get(), is("doe"));
+		assertThat(elem.getAttribute("foo").get(), is("123"));
+		assertThat(elem.getAttribute("not-there").isPresent(), is(false));
+	}
+
 	@Test
 	public void spiegel() throws Exception {
 		byte[] bytes = Files.readAllBytes(Paths.get("src/test/java", this.getClass().getPackage().getName(), "spiegel.txt"));
@@ -173,7 +229,6 @@ public class HtmlParserTest {
 		System.out.println();
 		System.out.println("Classes:");
 		classes.stream().sorted().forEach(System.out::println);
-
 	}
 
 	private DocNode parse(String html) {

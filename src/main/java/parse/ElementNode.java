@@ -3,6 +3,7 @@ package parse;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Optional;
 
 import parse.HtmlLexer.Token;
 
@@ -25,6 +26,10 @@ public class ElementNode extends ASTNode {
 		this.name = name;
 		this.attribs = attribs;
 		this.close = close;
+
+		for (AttributeNode attrib : this.attribs) {
+			attrib.setParent(this);
+		}
 	}
 
 	public List<ASTNode> getChildren() {
@@ -38,6 +43,7 @@ public class ElementNode extends ASTNode {
 	@Override
 	public void accept(HtmlVisitor visitor) {
 		visitor.visitElement(this);
+		getAttributes().forEach(visitor::visitAttribute);
 		for (ASTNode child : children) {
 			child.accept(visitor);
 		}
@@ -98,5 +104,12 @@ public class ElementNode extends ASTNode {
 				", close=" + close +
 				", closeTag=" + closeTag +
 				'}';
+	}
+
+	public Optional<String> getAttribute(String name) {
+		return getAttributes().stream()
+				.filter(a -> a.getName().equals(name))
+				.map(AttributeNode::getValue)
+				.findAny();
 	}
 }

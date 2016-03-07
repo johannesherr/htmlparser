@@ -9,4 +9,8 @@ public abstract class HtmlVisitor {
 	public void visitText(TextNode textNode) {
 
 	}
+
+	public void visitAttribute(AttributeNode attributeNode) {
+
+	}
 }

@@ -98,9 +98,10 @@ public class HtmlLexer {
 							if (state == States.OPEN_SEEN) {
 								createTokenEx(TokenType.OPEN);
 							}
-							readName();
+							if (c != ' ') {
+								readName();
+							}
 							state = States.IN_ELEMENT;
-
 					}
 					break;
 

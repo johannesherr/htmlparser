@@ -10,17 +10,14 @@ public abstract class ASTNode {
 		this.parent = parent;
 	}
 	
-	public int getStart() {
-		return start;
-	}
-	public int getEnd() {
-		return end;
-	}
-
 	public abstract void accept(HtmlVisitor visitor);
 
 	public ElementNode getParent() {
 		return parent;
+	}
+
+	protected void setParent(ElementNode parent) {
+		this.parent = parent;
 	}
 
 	public abstract int start();

@@ -161,7 +161,27 @@ public class HtmlLexerTest {
 		assertThat(tokens.get(2).toString(), is("Token{start=103, end=106, val='foo', type=NAME}"));
 		assertThat(tokens.get(3).toString(), is("Token{start=106, end=108, val='/>', type=CLOSE_END}"));
 	}
-	
+
+	@Test
+	public void multi_attrib() throws Exception {
+		String text = "<f abc=\"123\" de=\"foo\"></f>";
+		
+		List<HtmlLexer.Token> tokens = lex(text);
+
+		assertThat(tokens.get(0).toString(), is("Token{start=0, end=1, val='<', type=OPEN}"));
+		assertThat(tokens.get(1).toString(), is("Token{start=1, end=2, val='f', type=NAME}"));
+		assertThat(tokens.get(2).toString(), is("Token{start=3, end=6, val='abc', type=NAME}"));
+		assertThat(tokens.get(3).toString(), is("Token{start=6, end=7, val='=', type=EQ}"));
+		assertThat(tokens.get(4).toString(), is("Token{start=7, end=12, val='\"123\"', type=STRING}"));
+		assertThat(tokens.get(5).toString(), is("Token{start=13, end=15, val='de', type=NAME}"));
+		assertThat(tokens.get(6).toString(), is("Token{start=15, end=16, val='=', type=EQ}"));
+		assertThat(tokens.get(7).toString(), is("Token{start=16, end=21, val='\"foo\"', type=STRING}"));
+		assertThat(tokens.get(8).toString(), is("Token{start=21, end=22, val='>', type=CLOSE}"));
+		assertThat(tokens.get(9).toString(), is("Token{start=22, end=24, val='</', type=OPEN_END}"));
+		assertThat(tokens.get(10).toString(), is("Token{start=24, end=25, val='f', type=NAME}"));
+		assertThat(tokens.get(11).toString(), is("Token{start=25, end=26, val='>', type=CLOSE}"));
+	}
+
 	@Test
 	public void spiegel() throws Exception {
 		byte[] bytes = Files.readAllBytes(Paths.get("src/test/java", this.getClass().getPackage().getName(), "spiegel.txt"));
@@ -169,7 +189,7 @@ public class HtmlLexerTest {
 		
 		List<HtmlLexer.Token> tokens = lex(text);
 
-		assertThat(tokens.size(), is(12_355));
+		assertThat(tokens.size(), is(11805));
 	}
 
 	private void print(List<HtmlLexer.Token> tokens) {
