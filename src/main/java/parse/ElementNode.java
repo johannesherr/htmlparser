@@ -1,7 +1,7 @@
 package parse;
 
+import java.util.ArrayList;
 import java.util.Collections;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Optional;
 
@@ -72,7 +72,7 @@ public class ElementNode extends ASTNode {
 	}
 
 	public List<ElementNode> getChildNodes() {
-		List<ElementNode> ret = new LinkedList<>();
+		List<ElementNode> ret = new ArrayList<>();
 		for (ASTNode astNode : getChildren()) {
 			if (astNode instanceof ElementNode) {
 				ret.add((ElementNode) astNode);

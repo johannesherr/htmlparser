@@ -3,8 +3,8 @@ package parse;
 import static parse.HtmlLexer.TokenType.NAME;
 import static parse.HtmlLexer.TokenType.OPEN;
 
+import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.List;
 
 import parse.HtmlLexer.Token;
@@ -28,7 +28,7 @@ public class HtmlParser {
 	}
 
 	private List<ASTNode> parseNodeList(ElementNode parent) {
-		List<ASTNode> children = new LinkedList<>();
+		List<ASTNode> children = new ArrayList<>();
 		outer:
 		while (true) {
 			ASTNode cur;
@@ -69,7 +69,7 @@ public class HtmlParser {
 		Token open = expect(lexer.next(), OPEN);
 		Token name = expect(lexer.next(), NAME);
 
-		List<AttributeNode> attribs = new LinkedList<>();
+		List<AttributeNode> attribs = new ArrayList<>();
 		while (lexer.peek().type == NAME) {
 			attribs.add(parseAttribute());
 		}

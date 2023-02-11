@@ -1,7 +1,7 @@
 package parse;
 
 import java.lang.reflect.Field;
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 
 import com.google.common.base.Throwables;
@@ -10,7 +10,7 @@ public class HtmlLexer {
 	
 	private String s;
 	private int i = 0;
-	List<Token> tks = new LinkedList<>();
+	List<Token> tks = new ArrayList<>();
 	int state = States.INITIAL, start = 0, tok;
 
 	public HtmlLexer(String s) {
