@@ -4,14 +4,14 @@ import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.google.common.base.Throwables;
-
 public class HtmlLexer {
 	
-	private String s;
+	private final String s;
 	private int i = 0;
-	List<Token> tks = new ArrayList<>();
-	int state = States.INITIAL, start = 0, tok;
+	private final List<Token> tks = new ArrayList<>();
+	private int state = States.INITIAL;
+	private int start = 0;
+	private int tok;
 
 	public HtmlLexer(String s) {
 		this.s = s;
@@ -305,7 +305,7 @@ public class HtmlLexer {
 					}
 				}
 			} catch (IllegalAccessException e) {
-				throw Throwables.propagate(e);
+				throw new RuntimeException(e);
 			}
 			return String.format("unkown state (%s)", state);
 		}

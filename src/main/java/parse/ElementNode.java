@@ -12,7 +12,7 @@ public class ElementNode extends ASTNode {
 	private final Token name;
 	private final List<AttributeNode> attribs;
 	private List<ASTNode> children = Collections.emptyList();
-	private Token close;
+	private final Token close;
 	private CloseTag closeTag;
 
 	public ElementNode(ElementNode parent,

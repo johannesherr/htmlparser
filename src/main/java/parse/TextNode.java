@@ -3,7 +3,7 @@ package parse;
 import parse.HtmlLexer.Token;
 
 public class TextNode extends ASTNode {
-	private Token text;
+	private final Token text;
 
 	public TextNode(ElementNode parent, Token text) {
 		super(parent);
